@@ -2,7 +2,9 @@
 import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
 import { Sponsor } from "@/types"
+import nextConfig from "@/next.config"
 
+export const basePath = nextConfig.basePath ?? ""
 
 
 interface SponsorsGridProps {
@@ -44,7 +46,7 @@ export function SponsorsGrid({ sponsors }: SponsorsGridProps) {
                 >
                   <div className="relative w-full h-32 mb-3">
                     <Image
-                      src={sponsor.logo}
+                      src={basePath + sponsor.logo}
                       alt={sponsor.name}
                       fill
                       className="object-contain transition-opacity group-hover:opacity-75"

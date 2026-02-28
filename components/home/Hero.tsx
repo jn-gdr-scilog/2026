@@ -2,6 +2,9 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import Image from "next/image";
 import { getSiteConfig } from "@/lib/mdx";
+import nextConfig from "@/next.config"
+
+export const basePath = nextConfig.basePath ?? ""
 
 export async function Hero() {
   const config = await getSiteConfig();
@@ -11,7 +14,7 @@ export async function Hero() {
       <div className="absolute inset-0">
         {config.heroImage ? (
           <Image
-            src={config.heroImage}
+            src={basePath + config.heroImage}
             alt={config.venueName || "Remplir le lieu de la conférence"}
             fill
             className="object-cover opacity-50"
