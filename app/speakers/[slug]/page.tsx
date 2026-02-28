@@ -7,6 +7,11 @@ import Link from "next/link"
 
 export async function generateStaticParams() {
   const speakers = await getSpeakers()
+  
+  if (speakers.length === 0) {
+    return [{ slug: "_placeholder" }]
+  }
+
   return speakers.map((speaker) => ({
     slug: speaker.slug,
   }))
@@ -18,6 +23,10 @@ export default async function SpeakerPage({
   params: Promise<{ slug: string }>
 }) {
   const { slug } = await params
+
+  if (slug === "_placeholder") {
+    notFound()
+  }
 
   try {
     const { frontMatter, content } = await getSpeakerBySlug(slug)
