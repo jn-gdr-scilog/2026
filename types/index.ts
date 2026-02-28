@@ -70,7 +70,6 @@ export interface Sponsor {
   name: string
   logo: string
   website?: string
-  tier?: 'platinum' | 'gold' | 'silver' | 'bronze'
   description?: string
-  content?: string
+  order?: number
 }

@@ -1,0 +1,21 @@
+---
+name: "Firstname Lastname"
+slug: "firstname-lastname"
+role: "Role Title"
+affiliation: "University / Organization"
+image: "/images/speakers/firstname-lastname.jpeg"
+
+# Contact
+website: "https://example.com"
+email: ""
+twitter: ""
+
+# Bio courte
+bio: "Short bio summarizing the speaker's role and main research focus."
+---
+
+## Résumé
+A brief abstract of the talk goes here. Describe the main topic, the key ideas explored, and the takeaways for the audience. This section should give attendees a clear sense of what to expect from the session.
+
+## Biographie
+Full biography of the speaker. Include academic positions, research interests, notable publications, awards, and community involvement. This section can be several paragraphs long and serves as the authoritative reference for the speaker's background.
