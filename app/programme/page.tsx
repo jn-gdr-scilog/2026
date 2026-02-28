@@ -19,25 +19,12 @@ export default async function ProgrammePage() {
         
         {schedule.days.length === 0 ? (
           <div className="max-w-2xl mx-auto bg-white border border-gray-200 rounded-lg p-12 text-center">
-            <div className="text-6xl mb-4">📅</div>
             <h2 className="text-2xl font-bold mb-3 text-gray-900">
               Programme à venir
             </h2>
             <p className="text-gray-600 mb-6">
               Le programme détaillé sera annoncé prochainement.
             </p>
-            <div className="bg-gray-50 border border-gray-200 rounded p-4 text-sm text-gray-600 text-left">
-              <p className="font-semibold mb-2">Pour ajouter le programme :</p>
-              <code className="block bg-gray-900 text-white px-3 py-2 rounded mb-2">
-                content/schedule/day-1.mdx
-              </code>
-              <code className="block bg-gray-900 text-white px-3 py-2 rounded mb-2">
-                content/schedule/day-2.mdx
-              </code>
-              <code className="block bg-gray-900 text-white px-3 py-2 rounded">
-                content/schedule/day-3.mdx
-              </code>
-            </div>
           </div>
         ) : (
           <div className="space-y-12">

@@ -161,22 +161,24 @@ export async function getSiteConfig(): Promise<SiteConfig> {
 export async function getSponsors(): Promise<Sponsor[]> {
   const sponsorsDir = path.join(contentDirectory, "sponsors")
   const fileNames = readMDXDirectory(sponsorsDir)
-
   if (fileNames.length === 0) {
     return []
   }
 
-  const sponsors = fileNames.map((fileName) => {
-    const slug = fileName.replace(/\.mdx$/, "")
-    const fullPath = path.join(sponsorsDir, fileName)
-    const { data, content } = readMDXFile(fullPath)
-
-    return {
-      slug,
-      content,
-      ...data,
-    } as Sponsor
-  })
+  const sponsors = fileNames
+    .map((fileName) => {
+      const slug = fileName.replace(/\.mdx$/, "")
+      const fullPath = path.join(sponsorsDir, fileName)
+      const { data, content } = readMDXFile(fullPath)
+      return {
+        slug,
+        content,
+        ...data,
+      } as unknown as Sponsor
+    })
+    .filter((sponsor): sponsor is Sponsor => 
+      typeof sponsor.name === "string" && typeof sponsor.logo === "string"
+    )
 
   return sponsors
 }

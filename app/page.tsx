@@ -2,8 +2,8 @@ import { getPage, getSpeakers, getSponsors, getSiteConfig } from "@/lib/mdx";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import { MDXComponents } from "@/components/mdx/MDXComponents";
 import { Hero } from "@/components/home/Hero";
-import { SponsorsCarousel } from "@/components/home/SponsorsCarousel";
 import { Organizers } from "@/components/home/Organizers";
+import { SponsorsGrid } from "@/components/home/SponsorsGrid";
 
 export default async function HomePage() {
   const pageData = await getPage("home");
@@ -26,7 +26,7 @@ export default async function HomePage() {
       </section>
 
       {sponsors.length > 0 && (
-        <SponsorsCarousel sponsors={sponsors} autoplay={true} />
+        <SponsorsGrid sponsors={sponsors} />
       )}
 
       {config.organizers && config.organizers.length > 0 && (
