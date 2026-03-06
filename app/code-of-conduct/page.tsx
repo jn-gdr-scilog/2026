@@ -2,11 +2,6 @@ import { getPage } from "@/lib/mdx"
 import { MDXRemote } from "next-mdx-remote/rsc"
 import { MDXComponents } from "@/components/mdx/MDXComponents"
 
-export const metadata = {
-  title: "Code de conduite - GDR Scilog 2026",
-  description: "Règles de bienveillance et de respect pour la conférence GDR Scilog 2026",
-}
-
 export default async function CodeOfConductPage() {
   const pageData = await getPage('code-of-conduct')
 
