@@ -19,6 +19,7 @@ export function Header() {
 
   const navLinks = [
     { href: "/", label: "Accueil", icon: "home" },
+    { href: "/afadl", label: "AFADL", icon: "info" },
     { href: "/programme", label: "Programme", icon: "calendar" },
     { href: "/speakers", label: "Intervenants", icon: "users" },
     { href: "/venue", label: "Lieu", icon: "map" },
@@ -31,6 +32,12 @@ export function Header() {
         return (
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+          </svg>
+        )
+      case "info":
+        return (
+          <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
         )
       case "calendar":
@@ -144,7 +151,7 @@ export function Header() {
         className="lg:hidden fixed bottom-0 left-0 right-0 z-50 bg-background border-t shadow-lg"
         style={{ paddingBottom: 'env(safe-area-inset-bottom, 0px)' }}
       >
-        <div className="grid grid-cols-6">
+        <div className="grid grid-cols-7">
           {navLinks.map((link) => (
             <Link
               key={link.href}
