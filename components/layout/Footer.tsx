@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="border-t py-8 mt-auto">
       <div className="container mx-auto px-4 text-center">
         <p className="text-xs text-muted-foreground">
-          &copy; 2026 GDR Scilog • 15-17 Juin 2026 • Polytech Lille
+          &copy; 2026 GDR Scilog • 1-4 Juin 2026 • Polytech Lille
         </p>
       </div>
     </footer>
