@@ -1,12 +1,11 @@
-import { getPage } from "@/lib/mdx"
-import { MDXRemote } from "next-mdx-remote/rsc"
-import { MDXComponents } from "@/components/mdx/MDXComponents"
-import { Button } from "@/components/ui/button"
-import Link from "next/link"
-
+import { getPage } from "@/lib/mdx";
+import { MDXRemote } from "next-mdx-remote/rsc";
+import { MDXComponents } from "@/components/mdx/MDXComponents";
+import { Button } from "@/components/ui/button";
+import Link from "next/link";
 
 export default async function RegistrationPage() {
-  const pageData = await getPage("registration")
+  const pageData = await getPage("registration");
 
   if (!pageData) {
     return (
@@ -23,10 +22,10 @@ export default async function RegistrationPage() {
           </div>
         </div>
       </div>
-    )
+    );
   }
 
-  const { frontMatter, content } = pageData
+  const { frontMatter, content } = pageData;
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -61,7 +60,7 @@ export default async function RegistrationPage() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  S'inscrire maintenant →
+                  S&apos;inscrire maintenant →
                 </Link>
               </Button>
             </div>
@@ -77,5 +76,5 @@ export default async function RegistrationPage() {
         </div>
       </div>
     </div>
-  )
+  );
 }

@@ -18,8 +18,18 @@ export default async function AfadelPage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <div className="container max-w-4xl mx-auto px-4 py-12">
-        <MDXRemote source={content} components={MDXComponents} />
+      <div className="container mx-auto px-4 py-12">
+        <div className="text-center">
+          <h1 className="text-4xl font-bold mb-3 text-gray-900">
+            {frontMatter.title}
+          </h1>
+          <p className="text-xl text-gray-600">{frontMatter.description}</p>
+        </div>
+      </div>
+      <div className="container max-w-4xl mx-auto px-4">
+        <div className="prose prose-lg max-w-none bg-white rounded-lg p-8 shadow-sm">
+          <MDXRemote source={content} components={MDXComponents} />
+        </div>
       </div>
     </div>
   );
