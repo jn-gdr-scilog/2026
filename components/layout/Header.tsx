@@ -77,7 +77,7 @@ export function Header() {
           <div className="flex h-16 items-center justify-between">
             <Link href="/" className="flex items-center space-x-2">
               <span className="text-xl md:text-2xl font-bold text-gray-900">
-                Journées GDR Scilog
+                Journées GDR SciLog
               </span>
             </Link>
             

@@ -47,7 +47,7 @@ export async function Hero() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold mb-4 text-gray-900">
-            {config.heroTitle || config.siteName || "GDR Scilog 2026"}
+            {config.heroTitle || config.siteName || "GDR SciLog 2026"}
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-600 mb-3">
