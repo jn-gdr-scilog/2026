@@ -2,9 +2,9 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import Image from "next/image";
 import { getSiteConfig } from "@/lib/mdx";
-import nextConfig from "@/next.config"
+import nextConfig from "@/next.config";
 
-export const basePath = nextConfig.basePath ?? ""
+export const basePath = nextConfig.basePath ?? "";
 
 export async function Hero() {
   const config = await getSiteConfig();
