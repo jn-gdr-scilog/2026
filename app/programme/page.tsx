@@ -52,13 +52,18 @@ export default async function ProgrammePage() {
         ) : (
           <div className="space-y-12">
             {schedule.days.map((day: any, index: number) => (
-              <div key={index} id={`day-${index}`} className="scroll-mt-8">
-                <div className="mb-8 bg-white rounded-xl p-6 border border-gray-200 shadow-sm">
+              <details
+                key={index}
+                id={`day-${index}`}
+                className="scroll-mt-8 group rounded-xl border border-gray-200 bg-white shadow-sm open:shadow-md"
+                open={index === 0}
+              >
+                <summary className="list-none cursor-pointer p-6">
                   <div className="flex items-center gap-4">
                     <div className="flex-shrink-0 w-12 h-12 bg-gray-900 text-white rounded-lg flex items-center justify-center text-xl font-bold">
                       {index + 1}
                     </div>
-                    <div>
+                    <div className="flex-1">
                       <h2 className="text-3xl font-bold text-gray-900">
                         {day.label}
                       </h2>
@@ -66,12 +71,16 @@ export default async function ProgrammePage() {
                         <p className="text-gray-600 mt-1">{day.description}</p>
                       )}
                     </div>
+                    <span className="text-gray-500 transition-transform duration-200 group-open:rotate-180">
+                      ▼
+                    </span>
                   </div>
-                </div>
-                <div className="space-y-2">
+                </summary>
+
+                <div className="px-6 pb-6 space-y-2 border-t border-gray-100">
                   <MDXRemote source={day.content} components={components} />
                 </div>
-              </div>
+              </details>
             ))}
           </div>
         )}
