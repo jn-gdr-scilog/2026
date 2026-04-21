@@ -3,6 +3,7 @@ import { MDXRemote } from "next-mdx-remote/rsc"
 import { MDXComponents } from "@/components/mdx/MDXComponents"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
+import remarkGfm from "remark-gfm"
 
 
 export default async function RegistrationPage() {
@@ -48,7 +49,11 @@ export default async function RegistrationPage() {
 
           {/* contenu mdx */}
           <div className="prose prose-lg max-w-none">
-            <MDXRemote source={content} components={MDXComponents} />
+            <MDXRemote source={content} components={MDXComponents} options={{
+    mdxOptions: {
+      remarkPlugins: [remarkGfm],
+    },
+  }} />
           </div>
 
           <div className="border-t border-gray-300 mt-12 mb-8" />
