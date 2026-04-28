@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:scilog26-salle 2-Polytech
+X-WR-CALID:551799bf-5cb0-4764-9dee-05322c961955:212613
+PRODID:Zimbra-Calendar-Provider
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:16010101T030000
+TZOFFSETTO:+0100
+TZOFFSETFROM:+0200
+RRULE:FREQ=YEARLY;WKST=MO;INTERVAL=1;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETTO:+0200
+TZOFFSETFROM:+0100
+RRULE:FREQ=YEARLY;WKST=MO;INTERVAL=1;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:55592707-1f32-4c75-bb89-6c5be3e37943
+SUMMARY:Fading-ICT
+LOCATION:Salle 2
+X-MOZ-GENERATION:1
+DTSTART;TZID="Europe/Paris":20260604T110000
+DTEND;TZID="Europe/Paris":20260604T123000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20260421T144656Z
+DTSTAMP:20260421T144656Z
+SEQUENCE:1
+URL:mid:0396345C-551A-4698-BC54-781C4A2D81BB@irit.fr
+END:VEVENT
+BEGIN:VEVENT
+UID:3ee279c1-4314-4dd9-86b6-310c0cc92171
+SUMMARY:GT DevX
+DESCRIPTION:Salut Cédric\,\n\non voudrait mettre notre session de GT le mard
+ i matin en // de AFADL\, \nest-ce que ça serait possible ?\n\nMerci d'avance
+ \,\nSteven.
+LOCATION:Salle 2
+DTSTART;TZID="Europe/Paris":20260602T110000
+DTEND;TZID="Europe/Paris":20260602T123000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20260421T181235Z
+DTSTAMP:20260421T181235Z
+SEQUENCE:0
+URL:mid:81ae950f-bc9a-40ed-8640-39f7d8c78f83@inria.fr
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea68bc8-3f10-4bc6-8c97-46571e5270a8
+SUMMARY:GT EcoResp
+DESCRIPTION:Bonjour Cedric\,\n\nOn part sur mercredi matin à 11h alors\, stp
+ .\n\nBien cordialement\,\n\nLe 23/04/2026 à 15:17\, Cedric Dumoulin a écrit 
+ :\n>   Bonjour Adel\,\n>\n> Je n'ai pas non plus accès au doc en ecriture :-
+ (. Je maintient un \n> calendrier avec les salles (snapshot en bas).\n> Le m
+ ardi matin\, il y a deja 3 groupes en //. Je ne peux pas placer un \n> group
+ e supplémentaire.\n> Les creneaux disponibles sont :\n> - lundi après-midi\n
+ > - mardi après-midi\n> - mercredi matin\n> - jeudi matin et après-midi\n>\n
+ > Ce serai bien lundi ou mardi après-midi.\n>\n>   Bonne journée\,\n>   Cedr
+ ic\n>\n>\n> Le 23/04/2026 à 14:58\, Adel Noureddine a écrit :\n>>\n>> Bonjou
+ r Cédric\,\n>>\n>> On aimerait placer notre GT Logiciel Eco-Responsable le m
+ ardi 2 juin \n>> à 11h.\n>>\n>> Peux-tu\, stp\, modifier le fichier Drive po
+ ur nous ajouter ?\n>>\n>> On ne peut pas modifier le fichier directement : \
+ n>> https://docs.google.com/spreadsheets/d/11v-2FLvcJSD67cOwnxB_DyELpPVztFKU
+ T4nOnzn6anQ/edit?gid=0#gid=0\n>>\n>> Bien cordialement\,\n>>\n>> -- \n>> Pro
+ f. Adel Noureddine\n>> Full Professor of Computer Science\n>> University Par
+ is Nanterre\, LIP6\n>> www.noureddine.org <https://www.noureddine.org/>\n>>\
+ n>\n-- \nProf. Adel Noureddine\nFull Professor of Computer Science\nUniversi
+ ty Paris Nanterre\, LIP6\nwww.noureddine.org <https://www.noureddine.org/>
+LOCATION:Salle 2
+X-MOZ-GENERATION:1
+DTSTART;TZID="Europe/Paris":20260603T110000
+DTEND;TZID="Europe/Paris":20260603T123000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20260423T132726Z
+DTSTAMP:20260423T132726Z
+SEQUENCE:0
+URL:mid:e8983308-73fe-4a0e-b986-dc9474e249d7@parisnanterre.fr
+END:VEVENT
+END:VCALENDAR

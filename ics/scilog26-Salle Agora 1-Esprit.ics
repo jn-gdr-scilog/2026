@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:scilog26-Salle Agora 1-Esprit
+X-WR-CALID:551799bf-5cb0-4764-9dee-05322c961955:212629
+PRODID:Zimbra-Calendar-Provider
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:16010101T030000
+TZOFFSETTO:+0100
+TZOFFSETFROM:+0200
+RRULE:FREQ=YEARLY;WKST=MO;INTERVAL=1;BYMONTH=10;BYDAY=-1SU
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETTO:+0200
+TZOFFSETFROM:+0100
+RRULE:FREQ=YEARLY;WKST=MO;INTERVAL=1;BYMONTH=3;BYDAY=-1SU
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d3eb95ab-ee50-4762-b482-169ed60a8cdb
+SUMMARY:SEAN
+LOCATION:Esprit Ambre
+X-MOZ-GENERATION:2
+DTSTART;TZID="Europe/Paris":20260603T110000
+DTEND;TZID="Europe/Paris":20260603T123000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20260421T153909Z
+DTSTAMP:20260421T153909Z
+SEQUENCE:2
+URL:mid:DEFCA402-180E-4871-9357-3BC16FC4BDB5@univ-tlse2.fr
+END:VEVENT
+BEGIN:VEVENT
+UID:572abe65-815a-4df5-859e-0f7b129b2b65
+SUMMARY:SEAN
+DESCRIPTION:Seam\, 8 personnes\n\n\nSalut Cédric\,\n\nOn voudrait profiter d
+ es journées pour organiser un workshop de travail sur le réseau des équivale
+ nts européen du GDR SciLog (regroupés dans un groupe officiel maintenant : h
+ ttps://www.informatics-europe.org/research/software-research.html ).\nCe ser
+ ait les 3 et 4 juin. Est-ce que tu auras une salle d’une quinzaine de person
+ nes max à nous allouer quelque part ?\nOn verra dans le programme si on n’es
+ saye pas aussi de caser un petit panel sur la question. Mais ça c'est moins 
+ urgent.\nOn a juste besoin d’un GO de principe pour lancer les invitations.\
+ nLes personnes s’inscriront sûrement à la conf.\n\nMerci d’avance\,\n\nJMB.\
+ n------------------------------------------------------------------\nProfess
+ eur des Universités\nIUT de Blagnac\n1 place Georges Brassens\, BP 60073\n31
+ 073 Blagnac Cedex\nFrance\nTél. +33 (0)5.62.74.75.61\nTél. +33 (0)6.86.00.29
+ .02\nSec. +33 (0)5.62.74.75.60\nhttps://jmbruel.netlify.app/\n--------------
+ ----------------------------------------------------
+LOCATION:Esprit Ambre
+X-MOZ-GENERATION:3
+DTSTART;TZID="Europe/Paris":20260603T140000
+DTEND;TZID="Europe/Paris":20260603T153000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20260421T153945Z
+DTSTAMP:20260421T153945Z
+SEQUENCE:3
+URL:mid:DEFCA402-180E-4871-9357-3BC16FC4BDB5@univ-tlse2.fr
+END:VEVENT
+BEGIN:VEVENT
+UID:7686f004-c396-4b7a-bca9-c8ea2b58e0e4
+SUMMARY:SEAN
+DESCRIPTION:Seam\, 8 personnes\n\n\nSalut Cédric\,\n\nOn voudrait profiter d
+ es journées pour organiser un workshop de travail sur le réseau des équivale
+ nts européen du GDR SciLog (regroupés dans un groupe officiel maintenant : h
+ ttps://www.informatics-europe.org/research/software-research.html ).\nCe ser
+ ait les 3 et 4 juin. Est-ce que tu auras une salle d’une quinzaine de person
+ nes max à nous allouer quelque part ?\nOn verra dans le programme si on n’es
+ saye pas aussi de caser un petit panel sur la question. Mais ça c'est moins 
+ urgent.\nOn a juste besoin d’un GO de principe pour lancer les invitations.\
+ nLes personnes s’inscriront sûrement à la conf.\n\nMerci d’avance\,\n\nJMB.\
+ n------------------------------------------------------------------\nProfess
+ eur des Universités\nIUT de Blagnac\n1 place Georges Brassens\, BP 60073\n31
+ 073 Blagnac Cedex\nFrance\nTél. +33 (0)5.62.74.75.61\nTél. +33 (0)6.86.00.29
+ .02\nSec. +33 (0)5.62.74.75.60\nhttps://jmbruel.netlify.app/\n--------------
+ ----------------------------------------------------
+LOCATION:Esprit Ambre
+X-MOZ-GENERATION:2
+DTSTART;TZID="Europe/Paris":20260603T160000
+DTEND;TZID="Europe/Paris":20260603T173000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20260421T154033Z
+DTSTAMP:20260421T154033Z
+SEQUENCE:2
+URL:mid:DEFCA402-180E-4871-9357-3BC16FC4BDB5@univ-tlse2.fr
+END:VEVENT
+BEGIN:VEVENT
+UID:f6f3b5bc-c958-4d2f-9476-16662024cc4d
+SUMMARY:SEAN
+DESCRIPTION:Seam\, 8 personnes\n\n\nSalut Cédric\,\n\nOn voudrait profiter d
+ es journées pour organiser un workshop de travail sur le réseau des équivale
+ nts européen du GDR SciLog (regroupés dans un groupe officiel maintenant : h
+ ttps://www.informatics-europe.org/research/software-research.html ).\nCe ser
+ ait les 3 et 4 juin. Est-ce que tu auras une salle d’une quinzaine de person
+ nes max à nous allouer quelque part ?\nOn verra dans le programme si on n’es
+ saye pas aussi de caser un petit panel sur la question. Mais ça c'est moins 
+ urgent.\nOn a juste besoin d’un GO de principe pour lancer les invitations.\
+ nLes personnes s’inscriront sûrement à la conf.\n\nMerci d’avance\,\n\nJMB.\
+ n------------------------------------------------------------------\nProfess
+ eur des Universités\nIUT de Blagnac\n1 place Georges Brassens\, BP 60073\n31
+ 073 Blagnac Cedex\nFrance\nTél. +33 (0)5.62.74.75.61\nTél. +33 (0)6.86.00.29
+ .02\nSec. +33 (0)5.62.74.75.60\nhttps://jmbruel.netlify.app/\n--------------
+ ----------------------------------------------------
+LOCATION:Esprit Ambre
+X-MOZ-GENERATION:3
+DTSTART;TZID="Europe/Paris":20260604T140000
+DTEND;TZID="Europe/Paris":20260604T153000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20260421T154135Z
+DTSTAMP:20260421T154135Z
+SEQUENCE:3
+URL:mid:DEFCA402-180E-4871-9357-3BC16FC4BDB5@univ-tlse2.fr
+END:VEVENT
+BEGIN:VEVENT
+UID:9c666b76-c309-4175-9a1c-1ba54589cae5
+SUMMARY:SEAN
+DESCRIPTION:Seam\, 8 personnes\n\n\nSalut Cédric\,\n\nOn voudrait profiter d
+ es journées pour organiser un workshop de travail sur le réseau des équivale
+ nts européen du GDR SciLog (regroupés dans un groupe officiel maintenant : h
+ ttps://www.informatics-europe.org/research/software-research.html ).\nCe ser
+ ait les 3 et 4 juin. Est-ce que tu auras une salle d’une quinzaine de person
+ nes max à nous allouer quelque part ?\nOn verra dans le programme si on n’es
+ saye pas aussi de caser un petit panel sur la question. Mais ça c'est moins 
+ urgent.\nOn a juste besoin d’un GO de principe pour lancer les invitations.\
+ nLes personnes s’inscriront sûrement à la conf.\n\nMerci d’avance\,\n\nJMB.\
+ n------------------------------------------------------------------\nProfess
+ eur des Universités\nIUT de Blagnac\n1 place Georges Brassens\, BP 60073\n31
+ 073 Blagnac Cedex\nFrance\nTél. +33 (0)5.62.74.75.61\nTél. +33 (0)6.86.00.29
+ .02\nSec. +33 (0)5.62.74.75.60\nhttps://jmbruel.netlify.app/\n--------------
+ ----------------------------------------------------
+LOCATION:Esprit Ambre
+X-MOZ-GENERATION:2
+DTSTART;TZID="Europe/Paris":20260604T160000
+DTEND;TZID="Europe/Paris":20260604T173000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20260421T154135Z
+DTSTAMP:20260421T154135Z
+SEQUENCE:2
+URL:mid:DEFCA402-180E-4871-9357-3BC16FC4BDB5@univ-tlse2.fr
+END:VEVENT
+BEGIN:VEVENT
+UID:427e1c0f-ce3c-4769-b240-f7bd2fc5383e
+SUMMARY:SEAN
+DESCRIPTION:Seam\, 8 personnes\n\n\nSalut Cédric\,\n\nOn voudrait profiter d
+ es journées pour organiser un workshop de travail sur le réseau des équivale
+ nts européen du GDR SciLog (regroupés dans un groupe officiel maintenant : h
+ ttps://www.informatics-europe.org/research/software-research.html ).\nCe ser
+ ait les 3 et 4 juin. Est-ce que tu auras une salle d’une quinzaine de person
+ nes max à nous allouer quelque part ?\nOn verra dans le programme si on n’es
+ saye pas aussi de caser un petit panel sur la question. Mais ça c'est moins 
+ urgent.\nOn a juste besoin d’un GO de principe pour lancer les invitations.\
+ nLes personnes s’inscriront sûrement à la conf.\n\nMerci d’avance\,\n\nJMB.\
+ n------------------------------------------------------------------\nProfess
+ eur des Universités\nIUT de Blagnac\n1 place Georges Brassens\, BP 60073\n31
+ 073 Blagnac Cedex\nFrance\nTél. +33 (0)5.62.74.75.61\nTél. +33 (0)6.86.00.29
+ .02\nSec. +33 (0)5.62.74.75.60\nhttps://jmbruel.netlify.app/\n--------------
+ ----------------------------------------------------
+LOCATION:Esprit Ambre
+X-MOZ-GENERATION:2
+DTSTART;TZID="Europe/Paris":20260604T110000
+DTEND;TZID="Europe/Paris":20260604T123000
+STATUS:CONFIRMED
+CLASS:PUBLIC
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+TRANSP:OPAQUE
+LAST-MODIFIED:20260421T154135Z
+DTSTAMP:20260421T154135Z
+SEQUENCE:2
+URL:mid:DEFCA402-180E-4871-9357-3BC16FC4BDB5@univ-tlse2.fr
+END:VEVENT
+END:VCALENDAR

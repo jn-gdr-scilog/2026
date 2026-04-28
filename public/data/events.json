@@ -1,0 +1,464 @@
+[
+  {
+    "id": "5276736b-74e0-49f7-817d-2b416dbc690a",
+    "title": "Accueil",
+    "start": "2026-06-01T10:30:00.000Z",
+    "end": "2026-06-01T11:45:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "d44fd06d-075d-4f30-a364-3b6704bd9ec1",
+    "title": "Ouverture des journées + état des lieux des défis",
+    "start": "2026-06-01T11:45:00.000Z",
+    "end": "2026-06-01T12:00:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb"
+  },
+  {
+    "id": "5c217009-8ad7-4bea-83b1-1967b6cb3f5b",
+    "title": "Defis AI4SE et SE4AIA",
+    "start": "2026-06-01T12:00:00.000Z",
+    "end": "2026-06-01T13:30:00.000Z",
+    "room": "Salle 1",
+    "roomShort": "Salle 1",
+    "color": "#16a34a",
+    "location": "Salle 1"
+  },
+  {
+    "id": "28da14e5-472d-46fe-a31a-a58a96460cff",
+    "title": "AFADL",
+    "start": "2026-06-01T12:00:00.000Z",
+    "end": "2026-06-01T13:30:00.000Z",
+    "room": "Salle 3",
+    "roomShort": "Salle 3",
+    "color": "#ea580c",
+    "location": "Salle 3"
+  },
+  {
+    "id": "e6643179-478e-4a00-845d-af0c9e90316e",
+    "title": "Pause",
+    "start": "2026-06-01T13:30:00.000Z",
+    "end": "2026-06-01T14:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "8904952f-ae50-4dde-a80f-61bc0b450281",
+    "title": "AFADL 2026",
+    "start": "2026-06-01T14:00:00.000Z",
+    "end": "2026-06-01T15:30:00.000Z",
+    "room": "Salle 3",
+    "roomShort": "Salle 3",
+    "color": "#ea580c",
+    "location": "Salle 3"
+  },
+  {
+    "id": "31da4bfd-66e8-4f36-b27a-6fd85e58d318",
+    "title": "Posters et DEMO",
+    "start": "2026-06-01T14:00:00.000Z",
+    "end": "2026-06-01T15:30:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "473cf553-0fa2-4d8d-9a35-33300b974513",
+    "title": "Cocktail accueil",
+    "start": "2026-06-01T16:30:00.000Z",
+    "end": "2026-06-01T19:30:00.000Z",
+    "room": "Événements",
+    "roomShort": "Événements",
+    "color": "#475569"
+  },
+  {
+    "id": "a17edc5e-e324-48be-a8b5-58b76ba49ec5",
+    "title": "Keynote 1 - Thomas Degueule",
+    "start": "2026-06-02T07:00:00.000Z",
+    "end": "2026-06-02T08:20:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  },
+  {
+    "id": "71d3c874-56d6-4089-9891-6af2f46b87d7",
+    "title": "Poster Teasers",
+    "start": "2026-06-02T08:20:00.000Z",
+    "end": "2026-06-02T08:30:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  },
+  {
+    "id": "38f450b9-04b6-4c69-be8b-48aae06b7b77",
+    "title": "Pause",
+    "start": "2026-06-02T08:30:00.000Z",
+    "end": "2026-06-02T09:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "bedf1c63-3ae2-435b-a471-31be6a1fe330",
+    "title": "GT Tone",
+    "start": "2026-06-02T09:00:00.000Z",
+    "end": "2026-06-02T10:30:00.000Z",
+    "room": "Salle 1",
+    "roomShort": "Salle 1",
+    "color": "#16a34a"
+  },
+  {
+    "id": "3ee279c1-4314-4dd9-86b6-310c0cc92171",
+    "title": "GT DevX",
+    "start": "2026-06-02T09:00:00.000Z",
+    "end": "2026-06-02T10:30:00.000Z",
+    "room": "Salle 2",
+    "roomShort": "Salle 2",
+    "color": "#9333ea",
+    "location": "Salle 2"
+  },
+  {
+    "id": "41176e77-c0a5-4a13-9f30-fae8310a3afe",
+    "title": "AFADL-LVP",
+    "start": "2026-06-02T09:00:00.000Z",
+    "end": "2026-06-02T10:30:00.000Z",
+    "room": "Salle 3",
+    "roomShort": "Salle 3",
+    "color": "#ea580c",
+    "location": "Salle 3"
+  },
+  {
+    "id": "cf765811-dcfe-457f-8d70-d9a3c04db489",
+    "title": "Déjeuner & Posters",
+    "start": "2026-06-02T10:30:00.000Z",
+    "end": "2026-06-02T12:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "d3a1f7c3-53bf-4833-a204-c27757e34160",
+    "title": "AFADL",
+    "start": "2026-06-02T12:00:00.000Z",
+    "end": "2026-06-02T13:30:00.000Z",
+    "room": "Salle 3",
+    "roomShort": "Salle 3",
+    "color": "#ea580c",
+    "location": "Salle 3"
+  },
+  {
+    "id": "301f6cef-bbfc-45f2-9058-2b5621df5f8d",
+    "title": "Pause",
+    "start": "2026-06-02T13:30:00.000Z",
+    "end": "2026-06-02T14:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "e5aa5214-8601-494a-866c-ebeb2feb9c3b",
+    "title": "Prix de thèse",
+    "start": "2026-06-02T14:00:00.000Z",
+    "end": "2026-06-02T15:30:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  },
+  {
+    "id": "ea28fceb-43c8-4b32-99ed-bdb2311ddd53",
+    "title": "Atelier préparation concours (CNRS, Inria, Mcf)",
+    "start": "2026-06-02T15:30:00.000Z",
+    "end": "2026-06-02T17:00:00.000Z",
+    "room": "Salle 1",
+    "roomShort": "Salle 1",
+    "color": "#16a34a"
+  },
+  {
+    "id": "50fcf544-ddda-4055-ae7b-fc9d279ffda1",
+    "title": "Escape Game",
+    "start": "2026-06-02T16:30:00.000Z",
+    "end": "2026-06-02T19:30:00.000Z",
+    "room": "Événements",
+    "roomShort": "Événements",
+    "color": "#475569"
+  },
+  {
+    "id": "44654fa3-f3e6-49a3-aa30-51ff0b830fc9",
+    "title": "Keynote 2 - Sylvain Conchon",
+    "start": "2026-06-03T07:00:00.000Z",
+    "end": "2026-06-03T08:20:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  },
+  {
+    "id": "782cb525-a716-4f85-beb3-c635effc0443",
+    "title": "Poster Teasers",
+    "start": "2026-06-03T08:20:00.000Z",
+    "end": "2026-06-03T08:30:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  },
+  {
+    "id": "6912667f-5812-44f7-9d52-22a5324e9c6f",
+    "title": "Pause",
+    "start": "2026-06-03T08:30:00.000Z",
+    "end": "2026-06-03T09:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "7d3b65b7-b20a-4e07-a3d4-b5732f6098b2",
+    "title": "GT IIDM",
+    "start": "2026-06-03T09:00:00.000Z",
+    "end": "2026-06-03T10:30:00.000Z",
+    "room": "Salle 1",
+    "roomShort": "Salle 1",
+    "color": "#16a34a"
+  },
+  {
+    "id": "8ea68bc8-3f10-4bc6-8c97-46571e5270a8",
+    "title": "GT EcoResp",
+    "start": "2026-06-03T09:00:00.000Z",
+    "end": "2026-06-03T10:30:00.000Z",
+    "room": "Salle 2",
+    "roomShort": "Salle 2",
+    "color": "#9333ea",
+    "location": "Salle 2"
+  },
+  {
+    "id": "eb24723b-fbbc-4e12-9628-76d4d481e5c2",
+    "title": "AFADL-MTV2",
+    "start": "2026-06-03T09:00:00.000Z",
+    "end": "2026-06-03T10:30:00.000Z",
+    "room": "Salle 3",
+    "roomShort": "Salle 3",
+    "color": "#ea580c",
+    "location": "Salle 3"
+  },
+  {
+    "id": "d3eb95ab-ee50-4762-b482-169ed60a8cdb",
+    "title": "SEAN",
+    "start": "2026-06-03T09:00:00.000Z",
+    "end": "2026-06-03T10:30:00.000Z",
+    "room": "Salle Agora 1",
+    "roomShort": "Agora 1",
+    "color": "#0891b2",
+    "location": "Esprit Ambre"
+  },
+  {
+    "id": "f9748b7d-f74b-437b-84fa-16407d5dd881",
+    "title": "Déjeuner & Posters",
+    "start": "2026-06-03T10:30:00.000Z",
+    "end": "2026-06-03T12:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "480b33ee-ed0f-4dbd-b737-3ba22f8bd2e2",
+    "title": "Invitation IFM",
+    "start": "2026-06-03T12:00:00.000Z",
+    "end": "2026-06-03T13:00:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  },
+  {
+    "id": "572abe65-815a-4df5-859e-0f7b129b2b65",
+    "title": "SEAN",
+    "start": "2026-06-03T12:00:00.000Z",
+    "end": "2026-06-03T13:30:00.000Z",
+    "room": "Salle Agora 1",
+    "roomShort": "Agora 1",
+    "color": "#0891b2",
+    "location": "Esprit Ambre"
+  },
+  {
+    "id": "7d06324d-2f2e-4c13-80d2-52998249cadc",
+    "title": "Nouvelles du CNRS",
+    "start": "2026-06-03T13:00:00.000Z",
+    "end": "2026-06-03T14:00:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  },
+  {
+    "id": "7686f004-c396-4b7a-bca9-c8ea2b58e0e4",
+    "title": "SEAN",
+    "start": "2026-06-03T14:00:00.000Z",
+    "end": "2026-06-03T15:30:00.000Z",
+    "room": "Salle Agora 1",
+    "roomShort": "Agora 1",
+    "color": "#0891b2",
+    "location": "Esprit Ambre"
+  },
+  {
+    "id": "d273fc99-309c-4ffe-8cf4-dec8a9d1be5b",
+    "title": "Pause",
+    "start": "2026-06-03T14:00:00.000Z",
+    "end": "2026-06-03T14:30:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "91bbd169-ad81-4f5d-8999-81027536b9c4",
+    "title": "Assemblée Génerale",
+    "start": "2026-06-03T14:30:00.000Z",
+    "end": "2026-06-03T16:00:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  },
+  {
+    "id": "9c9dd164-9939-4310-a76c-aa1f165a2840",
+    "title": "Gala - Péniche Aristote",
+    "start": "2026-06-03T17:30:00.000Z",
+    "end": "2026-06-03T21:30:00.000Z",
+    "room": "Événements",
+    "roomShort": "Événements",
+    "color": "#475569",
+    "location": "Péniche Aristote"
+  },
+  {
+    "id": "2c575d30-a061-424b-83b3-2436c867897d",
+    "title": "Keynote 3",
+    "start": "2026-06-04T07:00:00.000Z",
+    "end": "2026-06-04T08:20:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  },
+  {
+    "id": "da728e07-63ae-4d27-82e0-4f55010e39c3",
+    "title": "Prix du meilleur Poster",
+    "start": "2026-06-04T08:20:00.000Z",
+    "end": "2026-06-04T08:30:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  },
+  {
+    "id": "64ebea86-d375-4eb3-9842-0811245a8ff2",
+    "title": "Pause",
+    "start": "2026-06-04T08:30:00.000Z",
+    "end": "2026-06-04T09:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "58e75128-ddba-4960-a95d-0c18ea50b48d",
+    "title": "Défi GL4Sec et les GT MTV2 et GL_Sec",
+    "start": "2026-06-04T09:00:00.000Z",
+    "end": "2026-06-04T10:30:00.000Z",
+    "room": "Salle 1",
+    "roomShort": "Salle 1",
+    "color": "#16a34a",
+    "location": "Salle 1"
+  },
+  {
+    "id": "55592707-1f32-4c75-bb89-6c5be3e37943",
+    "title": "Fading-ICT",
+    "start": "2026-06-04T09:00:00.000Z",
+    "end": "2026-06-04T10:30:00.000Z",
+    "room": "Salle 2",
+    "roomShort": "Salle 2",
+    "color": "#9333ea",
+    "location": "Salle 2"
+  },
+  {
+    "id": "427e1c0f-ce3c-4769-b240-f7bd2fc5383e",
+    "title": "SEAN",
+    "start": "2026-06-04T09:00:00.000Z",
+    "end": "2026-06-04T10:30:00.000Z",
+    "room": "Salle Agora 1",
+    "roomShort": "Agora 1",
+    "color": "#0891b2",
+    "location": "Esprit Ambre"
+  },
+  {
+    "id": "f0e1efa6-47aa-4770-b077-17780cf7ea6f",
+    "title": "Déjeuner & Posters",
+    "start": "2026-06-04T10:30:00.000Z",
+    "end": "2026-06-04T12:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "e25b729f-c774-4130-ba6c-4a98bd9e7611",
+    "title": "Défi ADDYCT",
+    "start": "2026-06-04T12:00:00.000Z",
+    "end": "2026-06-04T13:30:00.000Z",
+    "room": "Salle 1",
+    "roomShort": "Salle 1",
+    "color": "#16a34a",
+    "location": "Salle 1"
+  },
+  {
+    "id": "f6f3b5bc-c958-4d2f-9476-16662024cc4d",
+    "title": "SEAN",
+    "start": "2026-06-04T12:00:00.000Z",
+    "end": "2026-06-04T13:30:00.000Z",
+    "room": "Salle Agora 1",
+    "roomShort": "Agora 1",
+    "color": "#0891b2",
+    "location": "Esprit Ambre"
+  },
+  {
+    "id": "17c8b488-0bd4-45b4-92d0-a23a31e7a83c",
+    "title": "Pause",
+    "start": "2026-06-04T13:30:00.000Z",
+    "end": "2026-06-04T14:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "01fc9892-2e61-4093-90ec-f09f18487b44",
+    "title": "GTs EDT / SyLA",
+    "start": "2026-06-04T14:00:00.000Z",
+    "end": "2026-06-04T15:30:00.000Z",
+    "room": "Salle 1",
+    "roomShort": "Salle 1",
+    "color": "#16a34a",
+    "location": "Salle 1"
+  },
+  {
+    "id": "9c666b76-c309-4175-9a1c-1ba54589cae5",
+    "title": "SEAN",
+    "start": "2026-06-04T14:00:00.000Z",
+    "end": "2026-06-04T15:30:00.000Z",
+    "room": "Salle Agora 1",
+    "roomShort": "Agora 1",
+    "color": "#0891b2",
+    "location": "Esprit Ambre"
+  },
+  {
+    "id": "b762d85d-9b86-46a8-9aab-206bc36f8369",
+    "title": "Clôture",
+    "start": "2026-06-04T15:30:00.000Z",
+    "end": "2026-06-04T16:30:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi"
+  }
+]
