@@ -3,23 +3,23 @@ import * as path from "path"
 import ICAL from "ical.js"
 
 interface CalendarConfig {
-  file: string
+  url: string
   name: string
   shortName: string
   color: string
 }
 
 const CALENDARS: CalendarConfig[] = [
-  { file: "scilog26-Grand Amphi Migeon-Polytech.ics", name: "Grand Amphi Migeon", shortName: "Grand Amphi", color: "#2563eb" },
-  { file: "scilog26-salle 1-Polytech.ics",            name: "Salle 1",            shortName: "Salle 1",     color: "#16a34a" },
-  { file: "scilog26-salle 2-Polytech.ics",            name: "Salle 2",            shortName: "Salle 2",     color: "#9333ea" },
-  { file: "scilog26-salle3-Polytech.ics",             name: "Salle 3",            shortName: "Salle 3",     color: "#ea580c" },
-  { file: "scilog26-Salle Agora 1-Esprit.ics",        name: "Salle Agora 1",      shortName: "Agora 1",     color: "#0891b2" },
-  { file: "scilog26-Salle Agora 2-Esprit.ics",        name: "Salle Agora 2",      shortName: "Agora 2",     color: "#be185d" },
-  { file: "scilog26-Salle Agora Ambre-Esprit.ics",    name: "Salle Agora Ambre",  shortName: "Agora Ambre", color: "#b45309" },
-  { file: "scilog26-Salle Atrium-Esprit.ics",         name: "Salle Atrium",       shortName: "Atrium",      color: "#4f46e5" },
-  { file: "scilog26-Evenements.ics",                  name: "Événements",         shortName: "Événements",  color: "#475569" },
-  { file: "scilog26-convivialité-Polytech.ics",       name: "Convivialité",       shortName: "Convivialité",color: "#dc2626" },
+  { url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Grand%20Amphi%20Migeon-Polytech.ics", name: "Grand Amphi Migeon", shortName: "Grand Amphi", color: "#2563eb" },
+  { url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-salle%201-Polytech.ics",              name: "Salle 1",            shortName: "Salle 1",     color: "#16a34a" },
+  { url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-salle%202-Polytech.ics",              name: "Salle 2",            shortName: "Salle 2",     color: "#9333ea" },
+  { url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-salle3-Polytech.ics",                 name: "Salle 3",            shortName: "Salle 3",     color: "#ea580c" },
+  { url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Salle%20Agora%201-Esprit.ics",        name: "Salle Agora 1",      shortName: "Agora 1",     color: "#0891b2" },
+  { url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Salle%20Agora%202-Esprit.ics",        name: "Salle Agora 2",      shortName: "Agora 2",     color: "#be185d" },
+  { url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Salle%20Agora%20Ambre-Esprit.ics",    name: "Salle Agora Ambre",  shortName: "Agora Ambre", color: "#b45309" },
+  { url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Salle%20Atrium-Esprit.ics",           name: "Salle Atrium",       shortName: "Atrium",      color: "#4f46e5" },
+  { url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Evenements.ics",                      name: "Événements",         shortName: "Événements",  color: "#475569" },
+  { url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-convivialit%C3%A9-Polytech.ics",      name: "Convivialité",       shortName: "Convivialité",color: "#dc2626" },
 ]
 
 export interface CalendarEvent {
@@ -33,22 +33,24 @@ export interface CalendarEvent {
   location?: string
 }
 
-function parseICSFile(config: CalendarConfig, icsDir: string): CalendarEvent[] {
-  const filePath = path.join(icsDir, config.file)
-
-  if (!fs.existsSync(filePath)) {
-    console.warn(`File not found: ${config.file}`)
+async function fetchICS(config: CalendarConfig): Promise<CalendarEvent[]> {
+  let raw: string
+  try {
+    const res = await fetch(config.url)
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    raw = await res.text()
+  } catch (err) {
+    console.error(`Failed to fetch: ${config.url}`, err)
     return []
   }
 
-  const raw = fs.readFileSync(filePath, "utf-8")
   const cleaned = raw.replace(/^[^B]*BEGIN:VCALENDAR/, "BEGIN:VCALENDAR")
 
   let parsed: any
   try {
     parsed = ICAL.parse(cleaned)
   } catch (err) {
-    console.error(`Failed to parse: ${config.file}`, err)
+    console.error(`Failed to parse: ${config.name}`, err)
     return []
   }
 
@@ -77,8 +79,7 @@ function parseICSFile(config: CalendarConfig, icsDir: string): CalendarEvent[] {
   return events
 }
 
-function main() {
-  const icsDir = path.join(process.cwd(), "ics")
+async function main() {
   const outputDir = path.join(process.cwd(), "public", "data")
   const outputFile = path.join(outputDir, "events.json")
 
@@ -87,7 +88,7 @@ function main() {
   const allEvents: CalendarEvent[] = []
 
   for (const config of CALENDARS) {
-    const events = parseICSFile(config, icsDir)
+    const events = await fetchICS(config)
     console.log(`${config.name}: ${events.length} event(s)`)
     allEvents.push(...events)
   }

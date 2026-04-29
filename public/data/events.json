@@ -47,6 +47,16 @@
     "color": "#dc2626"
   },
   {
+    "id": "94cc4e10-431f-48f6-9a24-a23f1aa975ea",
+    "title": "GT VL",
+    "start": "2026-06-01T14:00:00.000Z",
+    "end": "2026-06-01T15:30:00.000Z",
+    "room": "Salle 2",
+    "roomShort": "Salle 2",
+    "color": "#9333ea",
+    "location": "Salle 2"
+  },
+  {
     "id": "8904952f-ae50-4dde-a80f-61bc0b450281",
     "title": "AFADL 2026",
     "start": "2026-06-01T14:00:00.000Z",
@@ -182,8 +192,8 @@
   {
     "id": "50fcf544-ddda-4055-ae7b-fc9d279ffda1",
     "title": "Escape Game",
-    "start": "2026-06-02T16:30:00.000Z",
-    "end": "2026-06-02T19:30:00.000Z",
+    "start": "2026-06-02T17:00:00.000Z",
+    "end": "2026-06-02T20:00:00.000Z",
     "room": "Événements",
     "roomShort": "Événements",
     "color": "#475569"
