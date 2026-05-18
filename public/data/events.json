@@ -25,7 +25,8 @@
     "room": "Salle 1",
     "roomShort": "Salle 1",
     "color": "#16a34a",
-    "location": "Salle 1"
+    "location": "Salle 1",
+    "description": "Description a venir"
   },
   {
     "id": "28da14e5-472d-46fe-a31a-a58a96460cff",
@@ -35,7 +36,8 @@
     "room": "Salle 3",
     "roomShort": "Salle 3",
     "color": "#ea580c",
-    "location": "Salle 3"
+    "location": "Salle 3",
+    "description": "Description a venir"
   },
   {
     "id": "e6643179-478e-4a00-845d-af0c9e90316e",
@@ -54,7 +56,8 @@
     "room": "Salle 2",
     "roomShort": "Salle 2",
     "color": "#9333ea",
-    "location": "Salle 2"
+    "location": "Salle 2",
+    "description": "Description a venir"
   },
   {
     "id": "8904952f-ae50-4dde-a80f-61bc0b450281",
@@ -64,7 +67,8 @@
     "room": "Salle 3",
     "roomShort": "Salle 3",
     "color": "#ea580c",
-    "location": "Salle 3"
+    "location": "Salle 3",
+    "description": "Description a venir"
   },
   {
     "id": "31da4bfd-66e8-4f36-b27a-6fd85e58d318",
@@ -82,7 +86,8 @@
     "end": "2026-06-01T19:30:00.000Z",
     "room": "Événements",
     "roomShort": "Événements",
-    "color": "#475569"
+    "color": "#475569",
+    "description": "Description a venir"
   },
   {
     "id": "a17edc5e-e324-48be-a8b5-58b76ba49ec5",
@@ -130,7 +135,8 @@
     "room": "Salle 2",
     "roomShort": "Salle 2",
     "color": "#9333ea",
-    "location": "Salle 2"
+    "location": "Salle 2",
+    "description": "Description a venir"
   },
   {
     "id": "41176e77-c0a5-4a13-9f30-fae8310a3afe",
@@ -140,7 +146,8 @@
     "room": "Salle 3",
     "roomShort": "Salle 3",
     "color": "#ea580c",
-    "location": "Salle 3"
+    "location": "Salle 3",
+    "description": "Description a venir"
   },
   {
     "id": "cf765811-dcfe-457f-8d70-d9a3c04db489",
@@ -168,7 +175,8 @@
     "room": "Salle 2",
     "roomShort": "Salle 2",
     "color": "#9333ea",
-    "location": "Salle 2"
+    "location": "Salle 2",
+    "description": "Description a venir"
   },
   {
     "id": "d3a1f7c3-53bf-4833-a204-c27757e34160",
@@ -178,7 +186,8 @@
     "room": "Salle 3",
     "roomShort": "Salle 3",
     "color": "#ea580c",
-    "location": "Salle 3"
+    "location": "Salle 3",
+    "description": "Description a venir"
   },
   {
     "id": "301f6cef-bbfc-45f2-9058-2b5621df5f8d",
@@ -197,7 +206,8 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Grand Amphi",
+    "description": "Description a venir"
   },
   {
     "id": "ea28fceb-43c8-4b32-99ed-bdb2311ddd53",
@@ -206,7 +216,8 @@
     "end": "2026-06-02T17:00:00.000Z",
     "room": "Salle 1",
     "roomShort": "Salle 1",
-    "color": "#16a34a"
+    "color": "#16a34a",
+    "description": "Description a venir"
   },
   {
     "id": "50fcf544-ddda-4055-ae7b-fc9d279ffda1",
@@ -225,7 +236,8 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Grand Amphi",
+    "description": "Description a venir"
   },
   {
     "id": "782cb525-a716-4f85-beb3-c635effc0443",
@@ -253,7 +265,8 @@
     "end": "2026-06-03T10:30:00.000Z",
     "room": "Salle 1",
     "roomShort": "Salle 1",
-    "color": "#16a34a"
+    "color": "#16a34a",
+    "description": "Description a venir"
   },
   {
     "id": "8ea68bc8-3f10-4bc6-8c97-46571e5270a8",
@@ -263,7 +276,8 @@
     "room": "Salle 2",
     "roomShort": "Salle 2",
     "color": "#9333ea",
-    "location": "Salle 2"
+    "location": "Salle 2",
+    "description": "Description a venir"
   },
   {
     "id": "eb24723b-fbbc-4e12-9628-76d4d481e5c2",
@@ -273,7 +287,8 @@
     "room": "Salle 3",
     "roomShort": "Salle 3",
     "color": "#ea580c",
-    "location": "Salle 3"
+    "location": "Salle 3",
+    "description": "Description a venir"
   },
   {
     "id": "d3eb95ab-ee50-4762-b482-169ed60a8cdb",
@@ -283,7 +298,8 @@
     "room": "Salle Agora 1",
     "roomShort": "Agora 1",
     "color": "#0891b2",
-    "location": "Esprit Ambre"
+    "location": "Esprit Ambre",
+    "description": "Privat event"
   },
   {
     "id": "f9748b7d-f74b-437b-84fa-16407d5dd881",
@@ -302,7 +318,8 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Grand Amphi",
+    "description": "Description a venir"
   },
   {
     "id": "572abe65-815a-4df5-859e-0f7b129b2b65",
@@ -312,7 +329,8 @@
     "room": "Salle Agora 1",
     "roomShort": "Agora 1",
     "color": "#0891b2",
-    "location": "Esprit Ambre"
+    "location": "Esprit Ambre",
+    "description": "Privat event"
   },
   {
     "id": "7d06324d-2f2e-4c13-80d2-52998249cadc",
@@ -322,7 +340,8 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Grand Amphi",
+    "description": "Description a venir"
   },
   {
     "id": "d273fc99-309c-4ffe-8cf4-dec8a9d1be5b",
@@ -341,7 +360,8 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Grand Amphi",
+    "description": "Description a venir"
   },
   {
     "id": "7686f004-c396-4b7a-bca9-c8ea2b58e0e4",
@@ -351,7 +371,8 @@
     "room": "Salle Agora 1",
     "roomShort": "Agora 1",
     "color": "#0891b2",
-    "location": "Esprit Ambre"
+    "location": "Esprit Ambre",
+    "description": "Privat event"
   },
   {
     "id": "9c9dd164-9939-4310-a76c-aa1f165a2840",
@@ -371,7 +392,8 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Grand Amphi",
+    "description": "\nTitle: Programming distributed systems with replicated state\n\n\n\n\nAbstract:\n\n\n\n\nDistributed systems replicate state across machines to enable high \navailability, fault tolerance, low latency, and scalability. Yet we \ncannot have the cake and eat it: the CAP theorem demonstrates\na fundamental trade-off between consistency and availability when network partitions occur. As a result, many systems adopt weak consistency models, relaxing the consistency guarantees to provide high availability and\n low latency. However, concurrent updates may lead to conflicts that must be resolved to ensure state convergence.\nReplicated Data Types (RDTs) have \nemerged as a principled answer to this challenge, offering convergence \nguarantees out of the box.\n\n\n\n\nIn this talk, we take a closer look at \nwhat it means for developers to build and utilise RDTs in their \napplications. Building highly available distributed applications with \nRDTs remains challenging: developers face recurring\n obstacles, including a lack of appropriate abstractions for replica \ndiscovery and update propagation, composing RDTs, and security. We will \ndiscuss recent results aimed at improving the adoption of RDTs, covering\n three fronts: 1) principled approaches to efficient\n RDT implementation, 2) abstractions for application-specific RDTs, and \n3) verification of RDTs in a (semi-)automatic way to give developers \nconfidence in their designs. We will close with an outlook on promising \nresearch directions.\n\n\n\n\n"
   },
   {
     "id": "da728e07-63ae-4d27-82e0-4f55010e39c3",
@@ -400,7 +422,8 @@
     "room": "Salle 1",
     "roomShort": "Salle 1",
     "color": "#16a34a",
-    "location": "Salle 1"
+    "location": "Salle 1",
+    "description": "Description a venir"
   },
   {
     "id": "55592707-1f32-4c75-bb89-6c5be3e37943",
@@ -410,7 +433,8 @@
     "room": "Salle 2",
     "roomShort": "Salle 2",
     "color": "#9333ea",
-    "location": "Salle 2"
+    "location": "Salle 2",
+    "description": "Description a venir"
   },
   {
     "id": "427e1c0f-ce3c-4769-b240-f7bd2fc5383e",
@@ -420,7 +444,8 @@
     "room": "Salle Agora 1",
     "roomShort": "Agora 1",
     "color": "#0891b2",
-    "location": "Esprit Ambre"
+    "location": "Esprit Ambre",
+    "description": "Privat event"
   },
   {
     "id": "f0e1efa6-47aa-4770-b077-17780cf7ea6f",
@@ -439,7 +464,8 @@
     "room": "Salle 1",
     "roomShort": "Salle 1",
     "color": "#16a34a",
-    "location": "Salle 1"
+    "location": "Salle 1",
+    "description": "Description a venir"
   },
   {
     "id": "f6f3b5bc-c958-4d2f-9476-16662024cc4d",
@@ -449,7 +475,8 @@
     "room": "Salle Agora 1",
     "roomShort": "Agora 1",
     "color": "#0891b2",
-    "location": "Esprit Ambre"
+    "location": "Esprit Ambre",
+    "description": "privat event"
   },
   {
     "id": "17c8b488-0bd4-45b4-92d0-a23a31e7a83c",
@@ -468,7 +495,8 @@
     "room": "Salle 1",
     "roomShort": "Salle 1",
     "color": "#16a34a",
-    "location": "Salle 1"
+    "location": "Salle 1",
+    "description": "Description a venir"
   },
   {
     "id": "9c666b76-c309-4175-9a1c-1ba54589cae5",
@@ -478,7 +506,8 @@
     "room": "Salle Agora 1",
     "roomShort": "Agora 1",
     "color": "#0891b2",
-    "location": "Esprit Ambre"
+    "location": "Esprit Ambre",
+    "description": "privat event"
   },
   {
     "id": "b762d85d-9b86-46a8-9aab-206bc36f8369",
