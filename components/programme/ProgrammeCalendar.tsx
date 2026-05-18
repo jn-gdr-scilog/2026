@@ -5,6 +5,8 @@ import { format, parseISO, isSameDay } from "date-fns"
 import { fr } from "date-fns/locale"
 import { Badge } from "@/components/ui/badge"
 import { cn } from "@/lib/utils"
+import { serialize } from "next-mdx-remote/serialize"
+import { MDXRemote } from "next-mdx-remote"
 
 interface CalendarEvent {
   id: string
@@ -15,6 +17,7 @@ interface CalendarEvent {
   roomShort: string
   color: string
   location?: string
+  description?: string
 }
 
 const CONFERENCE_DAYS = [
@@ -112,6 +115,14 @@ function layoutEvents(events: CalendarEvent[]): Map<string, LayoutEntry> {
 }
 
 function EventModal({ event, onClose }: { event: CalendarEvent | null; onClose: () => void }) {
+  const [mdxSource, setMdxSource] = useState<any>(null)
+
+  useEffect(() => {
+    if (!event?.description) { setMdxSource(null); return }
+    serialize(event.description.replace(/^ +/gm, "").trim())
+      .then(setMdxSource)
+  }, [event?.description])
+
   if (!event) return null
   const start = parseISO(event.start)
   const end = parseISO(event.end)
@@ -148,6 +159,13 @@ function EventModal({ event, onClose }: { event: CalendarEvent | null; onClose: 
             </div>
             <span>{event.location || event.room}</span>
           </div>
+
+          {mdxSource && (
+            <div className="text-sm text-gray-600 border-t border-gray-100 pt-4 prose prose-sm max-w-none">
+              <MDXRemote {...mdxSource}/>
+            </div>
+          )}
+
           <button
             onClick={onClose}
             className="w-full py-2.5 rounded-xl bg-gray-900 text-white text-sm font-medium hover:bg-gray-700 transition-colors"
