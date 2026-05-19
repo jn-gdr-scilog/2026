@@ -354,15 +354,14 @@
     "color": "#dc2626"
   },
   {
-    "id": "91bbd169-ad81-4f5d-8999-81027536b9c4",
-    "title": "Assemblée Génerale",
+    "id": "84558dcf-08a7-49e7-aa75-e072cbfcd50e",
+    "title": "Présentation du réseau DevLOG",
     "start": "2026-06-03T14:30:00.000Z",
-    "end": "2026-06-03T16:00:00.000Z",
+    "end": "2026-06-03T14:50:00.000Z",
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi",
-    "description": "Description a venir"
+    "description": "Présentation du réseau DevLOG par Stefan Gaget.\n\n## DevLOG\nRéseau des acteurs du Développement LOGiciel au sein de l'Enseignement Supérieur et de la Recherche.\nSa mission essentielle est de favoriser les échanges : soutien aux \nréseaux régionaux dans leurs actions, offre complémentaire d’actions et \nde formations, lien entre la communauté et les tutelles afin de remonter\n les réalités du terrain.\n\n[plus ... ](https://www.devlog.cnrs.fr/) (lien externe)"
   },
   {
     "id": "7686f004-c396-4b7a-bca9-c8ea2b58e0e4",
@@ -374,6 +373,17 @@
     "color": "#0891b2",
     "location": "Esprit Ambre",
     "description": "Privat event"
+  },
+  {
+    "id": "91bbd169-ad81-4f5d-8999-81027536b9c4",
+    "title": "Assemblée Génerale",
+    "start": "2026-06-03T14:50:00.000Z",
+    "end": "2026-06-03T16:20:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Grand Amphi",
+    "description": "Description a venir"
   },
   {
     "id": "9c9dd164-9939-4310-a76c-aa1f165a2840",
