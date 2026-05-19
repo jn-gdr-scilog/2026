@@ -97,7 +97,8 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Grand Amphi",
+    "description": "# Liens\n\n[présentation SciLog 2026](https://scilog2026.fr/speakers)"
   },
   {
     "id": "71d3c874-56d6-4089-9891-6af2f46b87d7",
@@ -237,7 +238,7 @@
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
     "location": "Grand Amphi",
-    "description": "Description a venir"
+    "description": "# Liens\n\n[présentation SciLog 2026](https://scilog2026.fr/speakers)"
   },
   {
     "id": "782cb525-a716-4f85-beb3-c635effc0443",
@@ -341,7 +342,7 @@
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
     "location": "Grand Amphi",
-    "description": "Description a venir"
+    "description": "# Intervenant\nAymeric Histace\n\n- Directeur adjoint\nscientifique Interdisciplinarité et interfaces, suivi des GDR, référent CID\n\n# Liens\n[Aymeric Histace](https://www.ins2i.cnrs.fr/fr/personne/aymeric-histace)"
   },
   {
     "id": "d273fc99-309c-4ffe-8cf4-dec8a9d1be5b",
@@ -393,7 +394,7 @@
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
     "location": "Grand Amphi",
-    "description": "\nTitle: Programming distributed systems with replicated state\n\n\n\n\nAbstract:\n\n\n\n\nDistributed systems replicate state across machines to enable high \navailability, fault tolerance, low latency, and scalability. Yet we \ncannot have the cake and eat it: the CAP theorem demonstrates\na fundamental trade-off between consistency and availability when network partitions occur. As a result, many systems adopt weak consistency models, relaxing the consistency guarantees to provide high availability and\n low latency. However, concurrent updates may lead to conflicts that must be resolved to ensure state convergence.\nReplicated Data Types (RDTs) have \nemerged as a principled answer to this challenge, offering convergence \nguarantees out of the box.\n\n\n\n\nIn this talk, we take a closer look at \nwhat it means for developers to build and utilise RDTs in their \napplications. Building highly available distributed applications with \nRDTs remains challenging: developers face recurring\n obstacles, including a lack of appropriate abstractions for replica \ndiscovery and update propagation, composing RDTs, and security. We will \ndiscuss recent results aimed at improving the adoption of RDTs, covering\n three fronts: 1) principled approaches to efficient\n RDT implementation, 2) abstractions for application-specific RDTs, and \n3) verification of RDTs in a (semi-)automatic way to give developers \nconfidence in their designs. We will close with an outlook on promising \nresearch directions.\n\n\n\n\n"
+    "description": "# Programming distributed systems with replicated state\n\n## Abstract\n\nDistributed systems replicate state across machines to enable high \navailability, fault tolerance, low latency, and scalability. Yet we \ncannot have the cake and eat it: the CAP theorem demonstrates\na fundamental trade-off between consistency and availability when network partitions occur. As a result, many systems adopt weak consistency models, relaxing the consistency guarantees to provide high availability and\n low latency. However, concurrent updates may lead to conflicts that must be resolved to ensure state convergence.\nReplicated Data Types (RDTs) have \nemerged as a principled answer to this challenge, offering convergence \nguarantees out of the box.\n\nIn this talk, we take a closer look at \nwhat it means for developers to build and utilise RDTs in their \napplications. Building highly available distributed applications with \nRDTs remains challenging: developers face recurring\n obstacles, including a lack of appropriate abstractions for replica \ndiscovery and update propagation, composing RDTs, and security. We will \ndiscuss recent results aimed at improving the adoption of RDTs, covering\n three fronts: 1) principled approaches to efficient\n RDT implementation, 2) abstractions for application-specific RDTs, and \n3) verification of RDTs in a (semi-)automatic way to give developers \nconfidence in their designs. We will close with an outlook on promising \nresearch directions.\n\n# Liens\n[présentation SciLog 2026](https://scilog2026.fr/speakers)\n\n\n\n"
   },
   {
     "id": "da728e07-63ae-4d27-82e0-4f55010e39c3",
