@@ -529,5 +529,15 @@
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
     "location": "Grand Amphi"
+  },
+  {
+    "id": "35e3f385-bd92-4c03-9322-17f62d932a42",
+    "title": "Soutenance L3 Samuel Payen",
+    "start": "2026-06-11T12:15:00.000Z",
+    "end": "2026-06-11T13:00:00.000Z",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "M5 A3"
   }
 ]
