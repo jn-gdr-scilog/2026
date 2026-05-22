@@ -29,15 +29,15 @@
     "description": "Description a venir"
   },
   {
-    "id": "28da14e5-472d-46fe-a31a-a58a96460cff",
-    "title": "AFADL",
+    "id": "8904952f-ae50-4dde-a80f-61bc0b450281",
+    "title": "AFADL - Langages et formalisation",
     "start": "2026-06-01T12:00:00.000Z",
     "end": "2026-06-01T13:30:00.000Z",
     "room": "Salle 3",
     "roomShort": "Salle 3",
     "color": "#ea580c",
     "location": "Salle 3",
-    "description": "Description a venir"
+    "description": "## 14:00 (25 mn)\n-Encoding Network PlusCal into the Join Calculus\n-  Ghilain Bergeron\n\n## 14h25 (20 mn)\n-Formalisation de carte de régions pour Frama-C/WP\n-  Jeremy Damour, Allan Blanchard, Loïc Correnson, Frédéric Loulergue\n\n## 14h45 (15 mn)\n- Formaliser l'exécution de LeanMachines à l'aide du π − calcul\n-  Danaël Carbonneau\n\n## 15h00 (20 mn)\n- BARReL : un backend moderne pour Atelier B dans Lean\n-  Ghilain Bergeron, Vincent Trélat\n\n\n\n\n\n"
   },
   {
     "id": "e6643179-478e-4a00-845d-af0c9e90316e",
@@ -60,15 +60,15 @@
     "description": "Description a venir"
   },
   {
-    "id": "8904952f-ae50-4dde-a80f-61bc0b450281",
-    "title": "AFADL 2026",
+    "id": "28da14e5-472d-46fe-a31a-a58a96460cff",
+    "title": "AFADL - Automates et logiques temporelles",
     "start": "2026-06-01T14:00:00.000Z",
     "end": "2026-06-01T15:30:00.000Z",
     "room": "Salle 3",
     "roomShort": "Salle 3",
     "color": "#ea580c",
     "location": "Salle 3",
-    "description": "Description a venir"
+    "description": "## 16:00 (25mn)\n- Kairos : réduction sémantique de propriétés LTL de sûreté vers des obligations locales pour programmes synchrones\n- Par  Frédéric Dabrowski\n\n## 16h25 (25mn)\n- Les automates parametriques temporisés au service de la modelisation Event-B\n- Par  Gibris Gweugna, Laure Petrucci, Frédéric Mallet\n\n## 16h50 (25mn)\n- On the Lookout for a “Bisimulation” Relation between Trace Sets for Early Design Evaluations\n- Par  Gurvan Le Guernic\n\n\n\n"
   },
   {
     "id": "31da4bfd-66e8-4f36-b27a-6fd85e58d318",
@@ -181,14 +181,14 @@
   },
   {
     "id": "d3a1f7c3-53bf-4833-a204-c27757e34160",
-    "title": "AFADL",
+    "title": "AFADL - Génie logiciel et études de cas industrielles",
     "start": "2026-06-02T12:00:00.000Z",
     "end": "2026-06-02T13:30:00.000Z",
     "room": "Salle 3",
     "roomShort": "Salle 3",
     "color": "#ea580c",
     "location": "Salle 3",
-    "description": "Description a venir"
+    "description": "## 14:00 (25 mn)\n- Distinguishing Insights from Hallucinations in LLM-Generated Software Engineering Artifacts\n-  Fabrice Bouquet, Antoine Chevrot, Frédéric Dadeau, Eléa Jacquin, Dorine Tabary\n\n\n## 14h25 (15 mn)\n- Scopeannon: Towards a Formal Variable Scoping Analysis of Ansible\n-  Olivia Proust\n\n## 14h40 (25 mn)\n- Vérification formelle d'un parseur de signature PKCS#1 à l'aide de Frama-C\n-  Martin Hána, Nikolai Kosmatov, Virgile Prevosto, Julien Signoles\n\n## 15h05 (20 mn)\n- Orange - Télécom SudParis collaboration : formal verification of security properties in moving target defense strategies\n-  Philipp Schlehuber-Caissier, Natalia Kushik, Benjamin Bisping, Chrystel Gaber, Jean-Philippe Wary, Nicolas Matei\n\n\n\n\n\n\n\n"
   },
   {
     "id": "301f6cef-bbfc-45f2-9058-2b5621df5f8d",
@@ -529,15 +529,5 @@
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
     "location": "Grand Amphi"
-  },
-  {
-    "id": "35e3f385-bd92-4c03-9322-17f62d932a42",
-    "title": "Soutenance L3 Samuel Payen",
-    "start": "2026-06-11T12:15:00.000Z",
-    "end": "2026-06-11T13:00:00.000Z",
-    "room": "Grand Amphi Migeon",
-    "roomShort": "Grand Amphi",
-    "color": "#2563eb",
-    "location": "M5 A3"
   }
 ]
