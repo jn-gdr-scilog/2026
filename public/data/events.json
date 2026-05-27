@@ -322,7 +322,7 @@
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
     "location": "Grand Amphi",
-    "description": "## 14h00-14h20 \n- Pierre Fraigniaud\n\n## 14h20-14h40 \n- Dylan Marinho\n\n## 14h40-15h00 \n- Sylvain Salvati"
+    "description": "## 14h00-14h20 \n- Pierre Fraigniaud\n\n## 14h20-14h40 \n- Verifying Timed Properties of Programs\n- par Dylan Marinho\n\nIn this presentation, I will first introduce the theoretical\n      tools used to analyze timing leaks in programs. The notion of\n      opacity was introduced in 2009 by Franck Cassez to assess whether\n      a system can preserve a secret against an attacker’s timed\n      observations. Our work focuses on an extension of this approach in\n      which the attacker’s observation is limited solely to the system’s\n      execution time.\n\n      \n\n      However, analyzing timed properties of programs is challenging, as\n      it requires taking into account both the software behavior and the\n      underlying hardware architecture. We will show how these two\n      aspects can be modeled using timed Petri nets and, as a proof of\n      concept, how security properties can be verified within this\n      framework.\n## 14h40-15h00 \n- Sylvain Salvati"
   },
   {
     "id": "572abe65-815a-4df5-859e-0f7b129b2b65",
