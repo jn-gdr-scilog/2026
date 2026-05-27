@@ -150,7 +150,7 @@
     "roomShort": "Salle 3",
     "color": "#ea580c",
     "location": "Salle 3",
-    "description": "Description a venir"
+    "description": "Chair : Antoine Rollet\n\n## 11h00 (25mn)\n- Inférence active de Machines à états finis étendues EFSM avec registres et gardes\n- German Vega, Roland Groz, Catherine Oriat, Adenilso Simao, Neil Walkinshaw, Michael Foster\n\n## 11h25 (25mn)\n- Spécialisation de l'anti-unification pour la composition des modèles d'interactions via des connexions de ports\n- Joel Nguetoum, Boutheina Bannour, Pascale Le Gall, Erwan Mahe\n\n## 11h50 (20mn)\n- Timed Finite State Machines with output delays : state identification and applications in distributed networking systems\n- Evgenii Vinarskii\n\n## 12h10 (20mn)\n- Vérification à l'exécution des flux de communication dans un système de production cyber-physique\n- ??\n\n"
   },
   {
     "id": "cf765811-dcfe-457f-8d70-d9a3c04db489",
@@ -291,7 +291,7 @@
     "roomShort": "Salle 3",
     "color": "#ea580c",
     "location": "Salle 3",
-    "description": "Description a venir"
+    "description": "Chair : Julie Cailler & Julien Signoles\n\n## 11h00 (20mn)\n- Assistants de preuve basés sur la théorie des ensembles interopérables et sûrs – le projet ICSPA\n- Frédéric Blanqui, Jean-Paul Bodeveix, Guillaume Burel, Alessio Coltellacci, David Deharbe, David Delahaye, Gilles Dowek , Catherine Dubois, Ciaran Dunne, Mamoun Filali, Anne Grieu, Olivier Hermant, Stephan Merz\n\n## 11h20 (20mn)\n- JSON Model : conception et implémentation\n-  Fabien Coelho,  Claire Yannou-Medrala\n\n## 11h40 (20mn)\n- L'arithmétique de séparation\n- Jean-Christophe Filliâtre, Andrei Paskevich\n\n## 12h00 (20mn)\n- Two-Way Collaboration Between Flow and Proof in SPARK\n- Claire Dross, Joffrey Huguet, Johannes Kanig\n\n"
   },
   {
     "id": "d3eb95ab-ee50-4762-b482-169ed60a8cdb",
