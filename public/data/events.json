@@ -68,7 +68,7 @@
     "roomShort": "Salle 2",
     "color": "#9333ea",
     "location": "Salle 2",
-    "description": "## 16:00 - 16:10 \n- Introduction and\nnews\n\n  - **Djamel, Théo,  Stéphanie**\n\n\n \n\n## 16:10 - 16:30\n\n- LLM-based\nCo-Evolution of Configurable Software Systems. \n  - SPLC 2025: 27-38\n\n  - **Nada Zine**, Clément\nQuinton, Romain Rouvoy:\n\n## 16:30 - 16:50\n\n- Fingerprint-Based\nBrowser Configuration Identification.\n  - WWW 2025: 4325-4335\n  - **Maxime Huyghe**,\nWalter Rudametkin, Clément Quinton: FP-Rainbow:\n\n \n\n## 16:50 - 17:10\n\n- A Multi-Language\nTool for Generating Unit Tests from Execution Traces.\n  - SANER 2025: 241-251\n  - Gabriel Darbord,\nNicolas Anquetil, Benoît Verhaeghe, **Anne Etien**\n\n17:10 - 17:30\n\nOn the GitHub\nActions Language: Usage, Evolution, and Workflow Reliability\n  - **Aref TALEBZADEH\nBARDSIRI**, Tom Mens\n\n \n\n##Conclusion\n\n\n"
+    "description": "## 16:00 - 16:10 \n- Introduction and news\n    - **Djamel, Théo,  Stéphanie**\n\n## 16:10 - 16:30\n- LLM-based Co-Evolution of Configurable Software Systems. \n    - SPLC 2025: 27-38\n    - **Nada Zine**, Clément Quinton, Romain Rouvoy:\n\n## 16:30 - 16:50\n- Fingerprint-Based Browser Configuration Identification.\n    - WWW 2025: 4325-4335\n    - **Maxime Huyghe**, Walter Rudametkin, Clément Quinton: FP-Rainbow:\n\n## 16:50 - 17:10\n- A Multi-Language Tool for Generating Unit Tests from Execution Traces.\n    - SANER 2025: 241-251\n    - Gabriel Darbord, Nicolas Anquetil, Benoît Verhaeghe, **Anne Etien**\n\n17:10 - 17:30\n- On the GitHub Actions Language: Usage, Evolution, and Workflow Reliability\n    - **Aref TALEBZADEH BARDSIRI**, Tom Mens\n\n##Conclusion\n\n\n"
   },
   {
     "id": "28da14e5-472d-46fe-a31a-a58a96460cff",
