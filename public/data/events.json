@@ -27,7 +27,7 @@
     "roomShort": "Salle 2",
     "color": "#9333ea",
     "location": "Salle 2",
-    "description": "Description a venir"
+    "description": "N’hésitez pas à vous joindre à nous pour tout ou partie de la session.\n- Meriem et Alain pour le défi AI4SE, \n- Christelle, Meriem et Sylvie pour le défi SE4AIA\n\n## 14h-14h15 \n- Introduction\n          : Complémentarité des défis AI4SE & SE4AIA et du GT IA\n\n## 14h15 - 14h45 \n-  Premier bilan du défi AI4SE\n\n## 14h45 - 15h15 \n- Lancement du défi SE4AIA\n\n## 15h15 - 15h30 \n-  Wrap up\n\n        \n\n"
   },
   {
     "id": "8904952f-ae50-4dde-a80f-61bc0b450281",
@@ -140,7 +140,7 @@
     "roomShort": "Salle 2",
     "color": "#9333ea",
     "location": "Salle 2",
-    "description": "Description a venir"
+    "description": "## GT-DevX\n- Deuxième session du GT-DevX (la première depuis le passage au GDR SciLog).\n\nNotre\n objectif reste le même que pour les événements précédents : initier une\n communauté autour de discussions, d'échanges d'expériences et de \nfutures collaborations potentielles sur la thématique de l'expérience \ndes développeuses et développeurs.\n\n\nCette\n année, dans l'air du temps, nous souhaitons aborder le DevX sous \nl'angle de l'intelligence artificielle et des outils agentiques.\n\nCes\n outils, souvent mis en avant pour leur capacité à répondre aux enjeux \nde productivité, sont désormais partie intégrante du développement \nlogiciel, .\n\nLa \nquestion se pose alors de savoir quel est leur impact sur le quotidien \ndes différents profils de développeuses et développeurs, et comment \nentrevoir ce que pourrait être le DevX de demain ?\n\n\nCes discussions seront d'autant plus riches qu'il y aura une grande diversité d'expériences lors de cette session.\n\n\nAlors, n'hésitez pas, venez nombreux !\n\n\n- Valentin Bourcier, Benoît Combemale, Steven Costiou"
   },
   {
     "id": "41176e77-c0a5-4a13-9f30-fae8310a3afe",
@@ -151,7 +151,7 @@
     "roomShort": "Salle 3",
     "color": "#ea580c",
     "location": "Salle 3",
-    "description": "Chair : Antoine Rollet\n\n## 11h00 (25mn)\n- Inférence active de Machines à états finis étendues EFSM avec registres et gardes\n- German Vega, Roland Groz, Catherine Oriat, Adenilso Simao, Neil Walkinshaw, Michael Foster\n\n## 11h25 (25mn)\n- Spécialisation de l'anti-unification pour la composition des modèles d'interactions via des connexions de ports\n- Joel Nguetoum, Boutheina Bannour, Pascale Le Gall, Erwan Mahe\n\n## 11h50 (20mn)\n- Timed Finite State Machines with output delays : state identification and applications in distributed networking systems\n- Evgenii Vinarskii\n\n## 12h10 (20mn)\n- Vérification à l'exécution des flux de communication dans un système de production cyber-physique\n- ??\n\n"
+    "description": "Chair : Antoine Rollet\n\n## 11h00 (25mn)\n- Inférence active de Machines à états finis étendues EFSM avec registres et gardes\n- German Vega, Roland Groz, Catherine Oriat, Adenilso Simao, Neil Walkinshaw, Michael Foster\n\n## 11h25 (25mn)\n- Spécialisation de l'anti-unification pour la composition des modèles d'interactions via des connexions de ports\n- Joel Nguetoum, Boutheina Bannour, Pascale Le Gall, Erwan Mahe\n\n## 11h50 (20mn)\n- Timed Finite State Machines with output delays : state identification and applications in distributed networking systems\n- Evgenii Vinarskii\n\n## 12h10 (20mn)\n- Vérification à l'exécution des flux de communication dans un système de production cyber-physique\n- Darine\nRammal, Christophe Gaston, Arnault Lapitre, Abdelaziz Ouazzani Chahidi, Hasnaa\nAit Malek, Maxime Morin, Nicolas Navarro\n\n"
   },
   {
     "id": "cf765811-dcfe-457f-8d70-d9a3c04db489",
@@ -169,7 +169,8 @@
     "end": "2026-06-02T13:30:00.000Z",
     "room": "Salle 1",
     "roomShort": "Salle 1",
-    "color": "#16a34a"
+    "color": "#16a34a",
+    "description": "## Présentations de travaux de recherche et de projets\n\n\n        \n- Djamel et Romain pour\n          le GT IA, \n\n"
   },
   {
     "id": "9da05a90-24fa-41f2-893a-adabd813acfc",
@@ -217,7 +218,7 @@
     "id": "ea28fceb-43c8-4b32-99ed-bdb2311ddd53",
     "title": "Atelier préparation concours (CNRS, Inria, Mcf)",
     "start": "2026-06-02T15:30:00.000Z",
-    "end": "2026-06-02T17:00:00.000Z",
+    "end": "2026-06-02T17:30:00.000Z",
     "room": "Salle 1",
     "roomShort": "Salle 1",
     "color": "#16a34a",
@@ -226,8 +227,8 @@
   {
     "id": "50fcf544-ddda-4055-ae7b-fc9d279ffda1",
     "title": "Escape Game",
-    "start": "2026-06-02T17:00:00.000Z",
-    "end": "2026-06-02T20:00:00.000Z",
+    "start": "2026-06-02T17:30:00.000Z",
+    "end": "2026-06-02T20:30:00.000Z",
     "room": "Événements",
     "roomShort": "Événements",
     "color": "#475569"
@@ -437,7 +438,7 @@
     "roomShort": "Salle 1",
     "color": "#16a34a",
     "location": "Salle 1",
-    "description": "Description a venir"
+    "description": "# Session commune Défi GL4Sec, GT MTV2 et GT GL_Sec\n\n## 11h-11h05 \n- Introduction du\n\nDéfi GL4Sec et des GT MTV2 et GL_Sec, \n- **Nikolai Kosmatov, Michaël Marcozzi et les responsables des GTs**\n\n## 11h05-11h35 \n- \"Did You Forkget It? Detecting One-Day Vulnerabilities in Open-source\nForks With Global History Analysis\"\n-  Romain Lefeuvre Charly Reux, Stefano Zachirolli, **Olivier Barais**, Benoit Combemale \n\n\n## 11h35-11h55 \n- \"SeaCoral : Une plateforme de génération automatique de tests pour C\"\n- Nicolas Berthier, Steven De Oliveira, Nikolai Kosmatov,  **Delphine Longuet**. \n\n## 11h55-12h15 \n- \"Not In My Git Tree: Catching Backdoors at Commit and Release Time\"\n- **Dimitri Kokkonis**, Michaël Marcozzi, Stefano Zachirolli.\n\n## 12h15-12h30 \n- Discussion entre les participants\n\n\n"
   },
   {
     "id": "55592707-1f32-4c75-bb89-6c5be3e37943",
