@@ -26,7 +26,7 @@
     "room": "Salle 1",
     "roomShort": "Salle 1",
     "color": "#16a34a",
-    "location": "Salle 3",
+    "location": "Salle 1",
     "description": "## 14:00 (25 mn)\n- Encoding Network PlusCal into the Join Calculus\n-  Ghilain Bergeron\n\n## 14h25 (20 mn)\n- Formalisation de carte de régions pour Frama-C/WP\n-  Jeremy Damour, Allan Blanchard, Loïc Correnson, Frédéric Loulergue\n\n## 14h45 (15 mn)\n- Formaliser l'exécution de LeanMachines à l'aide du π − calcul\n-  Danaël Carbonneau\n\n## 15h00 (20 mn)\n- BARReL : un backend moderne pour Atelier B dans Lean\n-  Ghilain Bergeron, Vincent Trélat\n\n\n\n\n\n"
   },
   {
@@ -57,7 +57,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Salle 1",
+    "location": "Amphi Migeon",
     "description": "# Démonstrations d'outils par leur créateurs et créatrices\n- \n# Posters dans le hall de convivialité."
   },
   {
@@ -68,7 +68,7 @@
     "room": "Salle 1",
     "roomShort": "Salle 1",
     "color": "#16a34a",
-    "location": "Salle 3",
+    "location": "Salle 1",
     "description": "## 16:00 (25mn)\n- Kairos : réduction sémantique de propriétés LTL de sûreté vers des obligations locales pour programmes synchrones\n- Par  Frédéric Dabrowski\n\n## 16h25 (25mn)\n- Les automates parametriques temporisés au service de la modelisation Event-B\n- Par  Gibris Gweugna, Laure Petrucci, Frédéric Mallet\n\n## 16h50 (25mn)\n- On the Lookout for a “Bisimulation” Relation between Trace Sets for Early Design Evaluations\n- Par  Gurvan Le Guernic\n\n\n\n"
   },
   {
@@ -90,7 +90,7 @@
     "room": "Événements",
     "roomShort": "Événements",
     "color": "#475569",
-    "description": "# Bier Buik\n\n**19h30-00h00**\n\nEstaminet et BrewPub\n19 rue Royale\n59000 Lille\n\n[google](J3Q5+Q8 Lille)\n\n[bierbuik](https://bierbuik.fr/estaminet-et-brewpub/lille)\n\n\n\n\n\n"
+    "description": "# Bier Buik\n\n**19h30-00h00**\n\nEstaminet et BrewPub\n19 rue Royale\n59000 Lille\n[Google Map](https://maps.app.goo.gl/GSH8YYQF8RnGxk7m9)\n\n[bierbuik](https://bierbuik.fr/estaminet-et-brewpub/lille)\n\n\n\n\n\n"
   },
   {
     "id": "a17edc5e-e324-48be-a8b5-58b76ba49ec5",
@@ -100,7 +100,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi",
+    "location": "Amphi Migeon",
     "description": "# Liens\n\n[présentation SciLog 2026](https://scilog2026.fr/speakers)"
   },
   {
@@ -130,7 +130,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Salle 3",
+    "location": "Amphi Migeon",
     "description": "Chair : Antoine Rollet\n\n## 11h00 (25mn)\n- Inférence active de Machines à états finis étendues EFSM avec registres et gardes\n- German Vega, Roland Groz, Catherine Oriat, Adenilso Simao, Neil Walkinshaw, Michael Foster\n\n## 11h25 (25mn)\n- Spécialisation de l'anti-unification pour la composition des modèles d'interactions via des connexions de ports\n- Joel Nguetoum, Boutheina Bannour, Pascale Le Gall, Erwan Mahe\n\n## 11h50 (20mn)\n- Timed Finite State Machines with output delays : state identification and applications in distributed networking systems\n- Evgenii Vinarskii\n\n## 12h10 (20mn)\n- Vérification à l'exécution des flux de communication dans un système de production cyber-physique\n- Darine\nRammal, Christophe Gaston, Arnault Lapitre, Abdelaziz Ouazzani Chahidi, Hasnaa\nAit Malek, Maxime Morin, Nicolas Navarro\n\n"
   },
   {
@@ -170,7 +170,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Salle 3",
+    "location": "Amphi Migeon",
     "description": "## 14:00 (25 mn)\n- Distinguishing Insights from Hallucinations in LLM-Generated Software Engineering Artifacts\n-  Fabrice Bouquet, Antoine Chevrot, Frédéric Dadeau, Eléa Jacquin, Dorine Tabary\n\n\n## 14h25 (15 mn)\n- Scopeannon: Towards a Formal Variable Scoping Analysis of Ansible\n-  Olivia Proust\n\n## 14h40 (25 mn)\n- Vérification formelle d'un parseur de signature PKCS#1 à l'aide de Frama-C\n-  Martin Hána, Nikolai Kosmatov, Virgile Prevosto, Julien Signoles\n\n## 15h05 (20 mn)\n- Orange - Télécom SudParis collaboration : formal verification of security properties in moving target defense strategies\n-  Philipp Schlehuber-Caissier, Natalia Kushik, Benjamin Bisping, Chrystel Gaber, Jean-Philippe Wary, Nicolas Matei\n\n\n\n\n\n\n\n"
   },
   {
@@ -211,7 +211,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi",
+    "location": "Amphi Migeon",
     "description": "## Remise du prix de thèse du GDR SciLog.\n- Présentation rapide de sa thèse par la lauréate ou le lauréat."
   },
   {
@@ -242,7 +242,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi",
+    "location": "Amphi Migeon",
     "description": "# Liens\n\n[présentation SciLog 2026](https://scilog2026.fr/speakers)"
   },
   {
@@ -272,7 +272,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Salle 3",
+    "location": "Amphi Migeon",
     "description": "Chair : Julie Cailler & Julien Signoles\n\n## 11h00 (20mn)\n- Assistants de preuve basés sur la théorie des ensembles interopérables et sûrs – le projet ICSPA\n- Frédéric Blanqui, Jean-Paul Bodeveix, Guillaume Burel, Alessio Coltellacci, David Deharbe, David Delahaye, Gilles Dowek , Catherine Dubois, Ciaran Dunne, Mamoun Filali, Anne Grieu, Olivier Hermant, Stephan Merz\n\n## 11h20 (20mn)\n- JSON Model : conception et implémentation\n-  Fabien Coelho,  Claire Yannou-Medrala\n\n## 11h40 (20mn)\n- L'arithmétique de séparation\n- Jean-Christophe Filliâtre, Andrei Paskevich\n\n## 12h00 (20mn)\n- Two-Way Collaboration Between Flow and Proof in SPARK\n- Claire Dross, Joffrey Huguet, Johannes Kanig\n\n"
   },
   {
@@ -324,7 +324,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi",
+    "location": "Amphi Migeon",
     "description": "## 14h00-14h20 \n- Pierre Fraigniaud\n\n## 14h20-14h40 \n- Verifying Timed Properties of Programs\n- par Dylan Marinho\n\nIn this presentation, I will first introduce the theoretical\n      tools used to analyze timing leaks in programs. The notion of\n      opacity was introduced in 2009 by Franck Cassez to assess whether\n      a system can preserve a secret against an attacker’s timed\n      observations. Our work focuses on an extension of this approach in\n      which the attacker’s observation is limited solely to the system’s\n      execution time.\n\n      \n\n      However, analyzing timed properties of programs is challenging, as\n      it requires taking into account both the software behavior and the\n      underlying hardware architecture. We will show how these two\n      aspects can be modeled using timed Petri nets and, as a proof of\n      concept, how security properties can be verified within this\n      framework.\n## 14h40-15h00 \n- Sylvain Salvati"
   },
   {
@@ -346,7 +346,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi",
+    "location": "Amphi Migeon",
     "description": "# Intervenant\nAymeric Histace\n\n- Directeur adjoint\nscientifique Interdisciplinarité et interfaces, suivi des GDR, référent CID\n\n# Liens\n[Aymeric Histace](https://www.ins2i.cnrs.fr/fr/personne/aymeric-histace)"
   },
   {
@@ -387,7 +387,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi",
+    "location": "Amphi Migeon",
     "description": "Description a venir"
   },
   {
@@ -399,7 +399,7 @@
     "roomShort": "Événements",
     "color": "#475569",
     "location": "Péniche Aristote",
-    "description": "#  COCKTAIL DINATOIRE\n## Péniche Aristote\n\nDe 19h30 à 00h30\n\n**Avenue Cuvier,\nFaçade de l'esplanade, Lille**\n[Google Map](J3Q2+HV Lille)\n\n\n\nLa Péniche Aristote\nvous invite à découvrir un cocktail dînatoire unique. Notre spécialité ? Le\nfour à bois, qui sublime des plats comme notre bavette marinée (Les régimes\nparticuliers se verront proposer d'autres choix). \n\n\n \n\n\nGrâce à notre\nsystème de points*, chaque convive peut choisir ses boissons préférées. \n\n\n## Système de points:\nVous avez 4 points\n\n- 1 verre 33 cl de bière = 1 point \n- 1 cocktail sans alcool = 1 point \n- 1 soft = 1 point \n- 1 coupe de Prosecco = 1 point \n- 1 verre de vin = 1 point \n- 1 cocktail = 2 points \n- 1 coupe de champagne = 2 points\n\n\n"
+    "description": "#  COCKTAIL DINATOIRE\n## Péniche Aristote\n\nDe 19h30 à 00h30\n\n**Avenue Cuvier,\nFaçade de l'esplanade, Lille**\n[Google Map](https://maps.app.goo.gl/do1fBz453yB3Qju7A)\n\n\n\nLa Péniche Aristote\nvous invite à découvrir un cocktail dînatoire unique. Notre spécialité ? Le\nfour à bois, qui sublime des plats comme notre bavette marinée (Les régimes\nparticuliers se verront proposer d'autres choix). \n\n\n \n\n\nGrâce à notre\nsystème de points*, chaque convive peut choisir ses boissons préférées. \n\n\n## Système de points:\nVous avez 4 points\n\n- 1 verre 33 cl de bière = 1 point \n- 1 cocktail sans alcool = 1 point \n- 1 soft = 1 point \n- 1 coupe de Prosecco = 1 point \n- 1 verre de vin = 1 point \n- 1 cocktail = 2 points \n- 1 coupe de champagne = 2 points\n\n\n"
   },
   {
     "id": "2c575d30-a061-424b-83b3-2436c867897d",
@@ -409,7 +409,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi",
+    "location": "Amphi Migeon",
     "description": "# Programming distributed systems with replicated state\n\n## Abstract\n\nDistributed systems replicate state across machines to enable high \navailability, fault tolerance, low latency, and scalability. Yet we \ncannot have the cake and eat it: the CAP theorem demonstrates\na fundamental trade-off between consistency and availability when network partitions occur. As a result, many systems adopt weak consistency models, relaxing the consistency guarantees to provide high availability and\n low latency. However, concurrent updates may lead to conflicts that must be resolved to ensure state convergence.\nReplicated Data Types (RDTs) have \nemerged as a principled answer to this challenge, offering convergence \nguarantees out of the box.\n\nIn this talk, we take a closer look at \nwhat it means for developers to build and utilise RDTs in their \napplications. Building highly available distributed applications with \nRDTs remains challenging: developers face recurring\n obstacles, including a lack of appropriate abstractions for replica \ndiscovery and update propagation, composing RDTs, and security. We will \ndiscuss recent results aimed at improving the adoption of RDTs, covering\n three fronts: 1) principled approaches to efficient\n RDT implementation, 2) abstractions for application-specific RDTs, and \n3) verification of RDTs in a (semi-)automatic way to give developers \nconfidence in their designs. We will close with an outlook on promising \nresearch directions.\n\n# Liens\n[présentation SciLog 2026](https://scilog2026.fr/speakers)\n\n\n\n"
   },
   {
@@ -436,10 +436,10 @@
     "title": "Défi GL4Sec et les GT MTV2 et GL_Sec",
     "start": "2026-06-04T09:00:00.000Z",
     "end": "2026-06-04T10:30:00.000Z",
-    "room": "Salle 1",
-    "roomShort": "Salle 1",
-    "color": "#16a34a",
-    "location": "Salle 1",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
     "description": "# Session commune Défi GL4Sec, GT MTV2 et GT GL_Sec\n\n## 11h-11h05 \n- Introduction du\n\nDéfi GL4Sec et des GT MTV2 et GL_Sec, \n- **Nikolai Kosmatov, Michaël Marcozzi et les responsables des GTs**\n\n## 11h05-11h35 \n- \"Did You Forkget It? Detecting One-Day Vulnerabilities in Open-source\nForks With Global History Analysis\"\n-  Romain Lefeuvre Charly Reux, Stefano Zachirolli, **Olivier Barais**, Benoit Combemale \n\n\n## 11h35-11h55 \n- \"SeaCoral : Une plateforme de génération automatique de tests pour C\"\n- Nicolas Berthier, Steven De Oliveira, Nikolai Kosmatov,  **Delphine Longuet**. \n\n## 11h55-12h15 \n- \"Not In My Git Tree: Catching Backdoors at Commit and Release Time\"\n- **Dimitri Kokkonis**, Michaël Marcozzi, Stefano Zachirolli.\n\n## 12h15-12h30 \n- Discussion entre les participants\n\n\n"
   },
   {
@@ -478,10 +478,10 @@
     "title": "Défi ADDYCT",
     "start": "2026-06-04T12:00:00.000Z",
     "end": "2026-06-04T13:30:00.000Z",
-    "room": "Salle 1",
-    "roomShort": "Salle 1",
-    "color": "#16a34a",
-    "location": "Salle 1",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
     "description": "Description a venir"
   },
   {
@@ -509,10 +509,10 @@
     "title": "GTs EDT / SyLA",
     "start": "2026-06-04T14:00:00.000Z",
     "end": "2026-06-04T15:30:00.000Z",
-    "room": "Salle 1",
-    "roomShort": "Salle 1",
-    "color": "#16a34a",
-    "location": "Salle 1",
+    "room": "Grand Amphi Migeon",
+    "roomShort": "Grand Amphi",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
     "description": "Description a venir"
   },
   {
@@ -534,6 +534,6 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Amphi Migeon"
   }
 ]
