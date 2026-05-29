@@ -58,7 +58,7 @@
     "roomShort": "Salle 1",
     "color": "#16a34a",
     "location": "Salle 1",
-    "description": "Démonstrations en salle 1.\nPosters dans le hall de convivialité."
+    "description": "# Démonstrations d'outils par leur créateurs et créatrices\n- \n# Posters dans le hall de convivialité."
   },
   {
     "id": "94cc4e10-431f-48f6-9a24-a23f1aa975ea",
@@ -212,7 +212,7 @@
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
     "location": "Grand Amphi",
-    "description": "Description a venir"
+    "description": "## Remise du prix de thèse du GDR SciLog.\n- Présentation rapide de sa thèse par la lauréate ou le lauréat."
   },
   {
     "id": "ea28fceb-43c8-4b32-99ed-bdb2311ddd53",
