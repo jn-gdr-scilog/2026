@@ -16,7 +16,8 @@
     "end": "2026-06-01T12:00:00.000Z",
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
-    "color": "#2563eb"
+    "color": "#2563eb",
+    "location": "Amphi Migeon"
   },
   {
     "id": "8904952f-ae50-4dde-a80f-61bc0b450281",
@@ -111,7 +112,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Amphi Migeon"
   },
   {
     "id": "38f450b9-04b6-4c69-be8b-48aae06b7b77",
@@ -253,7 +254,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Amphi Migeon"
   },
   {
     "id": "6912667f-5812-44f7-9d52-22a5324e9c6f",
@@ -366,6 +367,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
+    "location": "Amphi Migeon",
     "description": "Présentation du réseau DevLOG par Stefan Gaget.\n\n## DevLOG\nRéseau des acteurs du Développement LOGiciel au sein de l'Enseignement Supérieur et de la Recherche.\nSa mission essentielle est de favoriser les échanges : soutien aux \nréseaux régionaux dans leurs actions, offre complémentaire d’actions et \nde formations, lien entre la communauté et les tutelles afin de remonter\n les réalités du terrain.\n\n[plus ... ](https://www.devlog.cnrs.fr/) (lien externe)"
   },
   {
@@ -420,7 +422,7 @@
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
-    "location": "Grand Amphi"
+    "location": "Amphi Migeon"
   },
   {
     "id": "64ebea86-d375-4eb3-9842-0811245a8ff2",
