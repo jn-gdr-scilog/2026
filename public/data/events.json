@@ -284,7 +284,7 @@
     "room": "Salle 1",
     "roomShort": "Salle 1",
     "color": "#16a34a",
-    "description": "Description a venir"
+    "description": "## 11h00 - 11h25\n\n\n- **Nicolas Anquetil** :\n\"Meta-models for reverse engineering in practice\"\n\n\n## 11h25 - 11h50\n\n\n- **Meriem Smati** :\n\"DTGen : une approche de génération pour l’ingénierie et l’orchestration\nde jumeaux numériques dans les systèmes de systèmes\"\n\n\n## 11h50 - 12h15\n\n\n- **Hugo Richard**:  \"Weaving executable models and code for\nsoftware development\"\n\n\n## 12h15 - 12h30 \n\n\n- \"Discussion\ngénérale sur le GT IIDM\"\n\n\n"
   },
   {
     "id": "8ea68bc8-3f10-4bc6-8c97-46571e5270a8",
