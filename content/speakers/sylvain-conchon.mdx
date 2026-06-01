@@ -14,9 +14,15 @@ twitter: ""
 bio: ""
 ---
 
+# The Cubicle Fuzzy Loop: A Fuzzing-Based Framework for the Cubicle Model Checker
+
 ## Résumé
 
-TBA
+This talk presents the Cubicle Fuzzy Loop (CFL), a fuzzing-based extension of Cubicle, a model checker for parameterized systems. To prove safety, Cubicle generates invariants using forward exploration strategies such as BFS or DFS on finite model instances. However, these standard algorithms quickly face the state explosion problem due to Cubicle’s purely nondeterministic semantics. As a result, they struggle to discover critical states, which hinders invariant generation.
+
+CFL replaces this approach with a powerful DFS-like algorithm inspired by fuzzing. Cubicle’s purely nondeterministic execution loop is modified to provide feedback on newly discovered states and visited transitions. This feedback is then used by CFL to construct schedulers that guide model exploration. Not only does this provide Cubicle with a richer variety of states for invariant generation, but it also enables the rapid detection of unsafe models. 
+
+Our first experiments have yielded promising results. CFL effectively enables Cubicle to generate crucial invariants for hierarchical systems.
 
 ## Biographie
 
