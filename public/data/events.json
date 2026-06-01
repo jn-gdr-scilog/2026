@@ -267,14 +267,14 @@
   },
   {
     "id": "eb24723b-fbbc-4e12-9628-76d4d481e5c2",
-    "title": "AFADL-LVP",
+    "title": "AFADL-LVP-IPP",
     "start": "2026-06-03T09:00:00.000Z",
     "end": "2026-06-03T10:30:00.000Z",
     "room": "Grand Amphi Migeon",
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
     "location": "Amphi Migeon",
-    "description": "Chair : Julie Cailler & Julien Signoles\n\n## 11h00 (20mn)\n- Assistants de preuve basés sur la théorie des ensembles interopérables et sûrs – le projet ICSPA\n- Frédéric Blanqui, Jean-Paul Bodeveix, Guillaume Burel, Alessio Coltellacci, David Deharbe, David Delahaye, Gilles Dowek , Catherine Dubois, Ciaran Dunne, Mamoun Filali, Anne Grieu, Olivier Hermant, Stephan Merz\n\n## 11h20 (20mn)\n- JSON Model : conception et implémentation\n-  Fabien Coelho,  Claire Yannou-Medrala\n\n## 11h40 (20mn)\n- L'arithmétique de séparation\n- Jean-Christophe Filliâtre, Andrei Paskevich\n\n## 12h00 (20mn)\n- Two-Way Collaboration Between Flow and Proof in SPARK\n- Claire Dross, Joffrey Huguet, Johannes Kanig\n\n"
+    "description": "Chair : **Julie Cailler, Julien Signoles, Virgile Prevosto, Olivier Hermant**\n\n## 11h00 (20mn)\n- Assistants de preuve basés sur la théorie des ensembles interopérables et sûrs – le projet ICSPA\n- Frédéric Blanqui, Jean-Paul Bodeveix, Guillaume Burel, Alessio Coltellacci, David Deharbe, David Delahaye, Gilles Dowek , Catherine Dubois, Ciaran Dunne, Mamoun Filali, Anne Grieu, Olivier Hermant, Stephan Merz\n\n## 11h20 (20mn)\n- JSON Model : conception et implémentation\n-  Fabien Coelho,  Claire Yannou-Medrala\n\n## 11h40 (20mn)\n- L'arithmétique de séparation\n- Jean-Christophe Filliâtre, Andrei Paskevich\n\n## 12h00 (20mn)\n- Two-Way Collaboration Between Flow and Proof in SPARK\n- Claire Dross, Joffrey Huguet, Johannes Kanig\n\n"
   },
   {
     "id": "7d3b65b7-b20a-4e07-a3d4-b5732f6098b2",
