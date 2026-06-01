@@ -39,7 +39,7 @@
     "roomShort": "Salle 1",
     "color": "#16a34a",
     "location": "Salle 1",
-    "description": "## 14:00 (25 mn)\n- Encoding Network PlusCal into the Join Calculus\n-  Ghilain Bergeron\n\n## 14h25 (20 mn)\n- Formalisation de carte de régions pour Frama-C/WP\n-  Jeremy Damour, Allan Blanchard, Loïc Correnson, Frédéric Loulergue\n\n## 14h45 (15 mn)\n- Formaliser l'exécution de LeanMachines à l'aide du π − calcul\n-  Danaël Carbonneau\n\n## 15h00 (20 mn)\n- BARReL : un backend moderne pour Atelier B dans Lean\n-  Ghilain Bergeron, Vincent Trélat\n\n\n\n\n\n"
+    "description": "chair **Frédéric Dabrowski**\n\n## 14:00 (25 mn)\n- Encoding Network PlusCal into the Join Calculus\n-  Ghilain Bergeron\n\n## 14h25 (20 mn)\n- Formalisation de carte de régions pour Frama-C/WP\n-  Jeremy Damour, Allan Blanchard, Loïc Correnson, Frédéric Loulergue\n\n## 14h45 (15 mn)\n- Formaliser l'exécution de LeanMachines à l'aide du π − calcul\n-  Danaël Carbonneau\n\n## 15h00 (20 mn)\n- BARReL : un backend moderne pour Atelier B dans Lean\n-  Ghilain Bergeron, Vincent Trélat\n\n\n\n\n\n"
   },
   {
     "id": "e6643179-478e-4a00-845d-af0c9e90316e",
@@ -70,7 +70,7 @@
     "roomShort": "Salle 1",
     "color": "#16a34a",
     "location": "Salle 1",
-    "description": "## 16:00 (25mn)\n- Kairos : réduction sémantique de propriétés LTL de sûreté vers des obligations locales pour programmes synchrones\n- Par  Frédéric Dabrowski\n\n## 16h25 (25mn)\n- Les automates parametriques temporisés au service de la modelisation Event-B\n- Par  Gibris Gweugna, Laure Petrucci, Frédéric Mallet\n\n## 16h50 (25mn)\n- On the Lookout for a “Bisimulation” Relation between Trace Sets for Early Design Evaluations\n- Par  Gurvan Le Guernic\n\n\n\n"
+    "description": "chair **Sophie Ebersold**\n\n## 16:00 (25mn)\n- Kairos : réduction sémantique de propriétés LTL de sûreté vers des obligations locales pour programmes synchrones\n- Par  Frédéric Dabrowski\n\n## 16h25 (25mn)\n- Les automates parametriques temporisés au service de la modelisation Event-B\n- Par  Gibris Gweugna, Laure Petrucci, Frédéric Mallet\n\n## 16h50 (25mn)\n- On the Lookout for a “Bisimulation” Relation between Trace Sets for Early Design Evaluations\n- Par  Gurvan Le Guernic\n\n\n\n"
   },
   {
     "id": "94cc4e10-431f-48f6-9a24-a23f1aa975ea",
@@ -172,7 +172,7 @@
     "roomShort": "Grand Amphi",
     "color": "#2563eb",
     "location": "Amphi Migeon",
-    "description": "## 14:00 (25 mn)\n- Distinguishing Insights from Hallucinations in LLM-Generated Software Engineering Artifacts\n-  Fabrice Bouquet, Antoine Chevrot, Frédéric Dadeau, Eléa Jacquin, Dorine Tabary\n\n\n## 14h25 (15 mn)\n- Scopeannon: Towards a Formal Variable Scoping Analysis of Ansible\n-  Olivia Proust\n\n## 14h40 (25 mn)\n- Vérification formelle d'un parseur de signature PKCS#1 à l'aide de Frama-C\n-  Martin Hána, Nikolai Kosmatov, Virgile Prevosto, Julien Signoles\n\n## 15h05 (20 mn)\n- Orange - Télécom SudParis collaboration : formal verification of security properties in moving target defense strategies\n-  Philipp Schlehuber-Caissier, Natalia Kushik, Benjamin Bisping, Chrystel Gaber, Jean-Philippe Wary, Nicolas Matei\n\n\n\n\n\n\n\n"
+    "description": "chair **Fabien Dagnat**\n\n## 14:00 (25 mn)\n- Distinguishing Insights from Hallucinations in LLM-Generated Software Engineering Artifacts\n-  Fabrice Bouquet, Antoine Chevrot, Frédéric Dadeau, Eléa Jacquin, Dorine Tabary\n\n\n## 14h25 (15 mn)\n- Scopeannon: Towards a Formal Variable Scoping Analysis of Ansible\n-  Olivia Proust\n\n## 14h40 (25 mn)\n- Vérification formelle d'un parseur de signature PKCS#1 à l'aide de Frama-C\n-  Martin Hána, Nikolai Kosmatov, Virgile Prevosto, Julien Signoles\n\n## 15h05 (20 mn)\n- Orange - Télécom SudParis collaboration : formal verification of security properties in moving target defense strategies\n-  Philipp Schlehuber-Caissier, Natalia Kushik, Benjamin Bisping, Chrystel Gaber, Jean-Philippe Wary, Nicolas Matei\n\n\n\n\n\n\n\n"
   },
   {
     "id": "d4797acd-5cc0-4cdd-a395-6502edba0454",
