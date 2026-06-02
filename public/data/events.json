@@ -180,9 +180,10 @@
     "title": "GT IA",
     "start": "2026-06-02T12:00:00.000Z",
     "end": "2026-06-02T13:30:00.000Z",
-    "room": "Salle 1",
-    "roomShort": "Salle 1",
-    "color": "#16a34a",
+    "room": "Salle Agora 1",
+    "roomShort": "Agora 1",
+    "color": "#0891b2",
+    "location": "Agora 1",
     "description": "## Présentations de travaux de recherche et de projets\n\n\n        \n- Djamel et Romain pour\n          le GT IA, \n\n"
   },
   {
@@ -190,10 +191,10 @@
     "title": "GT PARTS",
     "start": "2026-06-02T12:00:00.000Z",
     "end": "2026-06-02T13:30:00.000Z",
-    "room": "Salle 2",
-    "roomShort": "Salle 2",
-    "color": "#9333ea",
-    "location": "Salle 2",
+    "room": "Salle Atrium",
+    "roomShort": "Atrium",
+    "color": "#4f46e5",
+    "location": "Esprit - Atrium (amphi)",
     "description": "Description a venir"
   },
   {
