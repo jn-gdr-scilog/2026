@@ -18,14 +18,14 @@ const CALENDARS: CalendarConfig[] = [
   },
   {
     url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-salle%201-Polytech.ics",
-    name: "Salle 1",
-    shortName: "Salle 1",
+    name: "Salle 1 (Polytech A209)",
+    shortName: "Salle 1 (Polytech A209)",
     color: "#16a34a",
   },
   {
     url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-salle%202-Polytech.ics",
-    name: "Salle 2",
-    shortName: "Salle 2",
+    name: "Salle 2 (Polytech A211)",
+    shortName: "Salle 2 (Polytech A211)",
     color: "#9333ea",
   },
   {
@@ -36,26 +36,26 @@ const CALENDARS: CalendarConfig[] = [
   },
   {
     url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Salle%20Agora%201-Esprit.ics",
-    name: "Salle Agora 1",
-    shortName: "Agora 1",
+    name: "Salle Agora 1 (Bat. Esprit)",
+    shortName: "Agora 1 (Bat. Esprit)",
     color: "#0891b2",
   },
   {
     url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Salle%20Agora%202-Esprit.ics",
-    name: "Salle Agora 2",
-    shortName: "Agora 2",
+    name: "Salle Agora 2 (Bat. Esprit)",
+    shortName: "Agora 2 (Bat. Esprit)",
     color: "#be185d",
   },
   {
     url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Salle%20Agora%20Ambre-Esprit.ics",
-    name: "Salle Agora Ambre",
-    shortName: "Agora Ambre",
+    name: "Salle Agora Ambre (Bat. Esprit)",
+    shortName: "Agora Ambre (Bat. Esprit)",
     color: "#b45309",
   },
   {
     url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Salle%20Atrium-Esprit.ics",
-    name: "Salle Atrium",
-    shortName: "Atrium",
+    name: "Salle Atrium (Bat. Esprit)",
+    shortName: "Atrium (Bat. Esprit)",
     color: "#4f46e5",
   },
   {
