@@ -141,7 +141,8 @@
     "end": "2026-06-02T10:30:00.000Z",
     "room": "Salle 1",
     "roomShort": "Salle 1",
-    "color": "#16a34a"
+    "color": "#16a34a",
+    "description": "- Marc Pouzet (ENS Paris) : \"Forward : une nouvelle construction d’itération pour un\n langage réactif synchrone\".\n\n- Timothy Bourke (INRIA / ENS Paris) : \"Ordonnancement et compilation de programmes synchrones\n avec horloges 1/n par résolution de contraintes.\""
   },
   {
     "id": "3ee279c1-4314-4dd9-86b6-310c0cc92171",
