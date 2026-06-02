@@ -12,7 +12,7 @@ interface CalendarConfig {
 const CALENDARS: CalendarConfig[] = [
   {
     url: "http://zimbra.univ-lille.fr/home/cedric.dumoulin@univ-lille.fr/scilog26-Grand%20Amphi%20Migeon-Polytech.ics",
-    name: "Grand Amphi Migeon",
+    name: "Grand Amphi Migeon (Polytech)",
     shortName: "Grand Amphi",
     color: "#2563eb",
   },
