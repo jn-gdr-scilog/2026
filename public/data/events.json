@@ -1,1 +1,545 @@
-[]
+[
+  {
+    "id": "5276736b-74e0-49f7-817d-2b416dbc690a",
+    "title": "Accueil",
+    "start": "2026-06-01T10:30:00.000Z",
+    "end": "2026-06-01T11:45:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626",
+    "description": "Attention, aucun repas n'est prévu le lundi midi !"
+  },
+  {
+    "id": "d44fd06d-075d-4f30-a364-3b6704bd9ec1",
+    "title": "Ouverture des journées + état des lieux des défis",
+    "start": "2026-06-01T11:45:00.000Z",
+    "end": "2026-06-01T12:00:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon"
+  },
+  {
+    "id": "5c217009-8ad7-4bea-83b1-1967b6cb3f5b",
+    "title": "Defis AI4SE et SE4AIA",
+    "start": "2026-06-01T12:00:00.000Z",
+    "end": "2026-06-01T13:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "N’hésitez pas à vous joindre à nous pour tout ou partie de la session.\n- Meriem et Alain pour le défi AI4SE, \n- Christelle, Meriem et Sylvie pour le défi SE4AIA\n\n## 14h-14h15 \n- Introduction\n          : Complémentarité des défis AI4SE & SE4AIA et du GT IA\n\n## 14h15 - 14h45 \n-  Premier bilan du défi AI4SE\n\n## 14h45 - 15h15 \n- Lancement du défi SE4AIA\n\n## 15h15 - 15h30 \n-  Wrap up\n\n        \n\n"
+  },
+  {
+    "id": "8904952f-ae50-4dde-a80f-61bc0b450281",
+    "title": "AFADL - Langages et formalisation",
+    "start": "2026-06-01T12:00:00.000Z",
+    "end": "2026-06-01T13:30:00.000Z",
+    "room": "Salle 1 (Polytech A209)",
+    "roomShort": "Salle 1 (Polytech A209)",
+    "color": "#16a34a",
+    "location": "Salle 1",
+    "description": "chair **Frédéric Dabrowski**\n\n## 14:00 (25 mn)\n- Encoding Network PlusCal into the Join Calculus\n-  Ghilain Bergeron\n\n## 14h25 (20 mn)\n- Formalisation de carte de régions pour Frama-C/WP\n-  Jeremy Damour, Allan Blanchard, Loïc Correnson, Frédéric Loulergue\n\n## 14h45 (15 mn)\n- Formaliser l'exécution de LeanMachines à l'aide du π − calcul\n-  Danaël Carbonneau\n\n## 15h00 (20 mn)\n- BARReL : un backend moderne pour Atelier B dans Lean\n-  Ghilain Bergeron, Vincent Trélat\n\n\n\n\n\n"
+  },
+  {
+    "id": "e6643179-478e-4a00-845d-af0c9e90316e",
+    "title": "Pause",
+    "start": "2026-06-01T13:30:00.000Z",
+    "end": "2026-06-01T14:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "31da4bfd-66e8-4f36-b27a-6fd85e58d318",
+    "title": "Démonstrations",
+    "start": "2026-06-01T14:00:00.000Z",
+    "end": "2026-06-01T15:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "# Démonstrations d'outils par leur créateurs et créatrices\n- \n# Posters dans le hall de convivialité."
+  },
+  {
+    "id": "28da14e5-472d-46fe-a31a-a58a96460cff",
+    "title": "AFADL - Automates et logiques temporelles",
+    "start": "2026-06-01T14:00:00.000Z",
+    "end": "2026-06-01T15:30:00.000Z",
+    "room": "Salle 1 (Polytech A209)",
+    "roomShort": "Salle 1 (Polytech A209)",
+    "color": "#16a34a",
+    "location": "Salle 1",
+    "description": "chair **Sophie Ebersold**\n\n## 16:00 (25mn)\n- Kairos : réduction sémantique de propriétés LTL de sûreté vers des obligations locales pour programmes synchrones\n- Par  Frédéric Dabrowski\n\n## 16h25 (25mn)\n- Les automates parametriques temporisés au service de la modelisation Event-B\n- Par  Gibris Gweugna, Laure Petrucci, Frédéric Mallet\n\n## 16h50 (25mn)\n- On the Lookout for a “Bisimulation” Relation between Trace Sets for Early Design Evaluations\n- Par  Gurvan Le Guernic\n\n\n\n"
+  },
+  {
+    "id": "94cc4e10-431f-48f6-9a24-a23f1aa975ea",
+    "title": "GT VL",
+    "start": "2026-06-01T14:00:00.000Z",
+    "end": "2026-06-01T15:30:00.000Z",
+    "room": "Salle 2 (Polytech A211)",
+    "roomShort": "Salle 2 (Polytech A211)",
+    "color": "#9333ea",
+    "location": "Salle 2",
+    "description": "## 16:00 - 16:10 \n- Introduction and news\n    - **Djamel, Théo,  Stéphanie**\n\n## 16:10 - 16:30\n- LLM-based Co-Evolution of Configurable Software Systems. \n    - SPLC 2025: 27-38\n    - **Nada Zine**, Clément Quinton, Romain Rouvoy:\n\n## 16:30 - 16:50\n- Fingerprint-Based Browser Configuration Identification.\n    - WWW 2025: 4325-4335\n    - **Maxime Huyghe**, Walter Rudametkin, Clément Quinton: FP-Rainbow:\n\n## 16:50 - 17:10\n- A Multi-Language Tool for Generating Unit Tests from Execution Traces.\n    - SANER 2025: 241-251\n    - Gabriel Darbord, Nicolas Anquetil, Benoît Verhaeghe, **Anne Etien**\n\n## 17:10 - 17:30\n- On the GitHub Actions Language: Usage, Evolution, and Workflow Reliability\n    - **Aref TALEBZADEH BARDSIRI**, Tom Mens\n\n## Conclusion\n\n\n"
+  },
+  {
+    "id": "473cf553-0fa2-4d8d-9a35-33300b974513",
+    "title": "Cocktail accueil",
+    "start": "2026-06-01T16:30:00.000Z",
+    "end": "2026-06-01T19:30:00.000Z",
+    "room": "Événements",
+    "roomShort": "Événements",
+    "color": "#475569",
+    "description": "# Bier Buik\n\n**18h30-00h00**\n\nEstaminet et BrewPub\n19 rue Royale\n59000 Lille\n[Google Map](https://maps.app.goo.gl/GSH8YYQF8RnGxk7m9)\n\n[bierbuik](https://bierbuik.fr/estaminet-et-brewpub/lille)\n\n\n\n\n\n"
+  },
+  {
+    "id": "a17edc5e-e324-48be-a8b5-58b76ba49ec5",
+    "title": "Keynote 1 - Sylvain Conchon",
+    "start": "2026-06-02T07:00:00.000Z",
+    "end": "2026-06-02T08:20:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "## The Cubicle Fuzzy Loop: A\n        Fuzzing-Based Framework for the Cubicle Model Checker\n\n      \n\n\n      \n\n      \nL’exposé sera en français (mais les slides en anglais). \n\n      \n\n\n      \n\n      \n## Abstract\n\n        \n\n          \n\n            \n\n              \n\nThis talk presents the\n                Cubicle Fuzzy Loop (CFL), a fuzzing-based extension of\n                Cubicle, a model checker for parameterized systems. To\n                prove safety, Cubicle generates invariants using forward\n                exploration strategies such as BFS or DFS on finite\n                model instances. However, these standard algorithms\n                quickly face the state explosion problem due to\n                Cubicle’s purely nondeterministic semantics. As a\n                result, they struggle to discover critical states, which\n                hinders invariant generation.\n\n              \n\nCFL replaces this\n                approach with a powerful DFS-like algorithm inspired by\n                fuzzing. Cubicle’s purely nondeterministic execution\n                loop is modified to provide feedback on newly discovered\n                states and visited transitions. This feedback is then\n                used by CFL to construct schedulers that guide model\n                exploration. Not only does this provide Cubicle with a\n                richer variety of states for invariant generation, but\n                it also enables the rapid detection of unsafe models. \n\n              \n\nOur\n                first experiments have yielded promising results. CFL\n                effectively enables Cubicle to generate crucial\n                invariants for hierarchical systems.\n\n# Liens\n\n[présentation SciLog 2026](https://scilog2026.fr/speakers)"
+  },
+  {
+    "id": "71d3c874-56d6-4089-9891-6af2f46b87d7",
+    "title": "Poster Teasers",
+    "start": "2026-06-02T08:20:00.000Z",
+    "end": "2026-06-02T08:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon"
+  },
+  {
+    "id": "38f450b9-04b6-4c69-be8b-48aae06b7b77",
+    "title": "Pause",
+    "start": "2026-06-02T08:30:00.000Z",
+    "end": "2026-06-02T09:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "41176e77-c0a5-4a13-9f30-fae8310a3afe",
+    "title": "AFADL-MTV2",
+    "start": "2026-06-02T09:00:00.000Z",
+    "end": "2026-06-02T10:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "Chair : Antoine Rollet\n\n## 11h00 (25mn)\n- Inférence active de Machines à états finis étendues EFSM avec registres et gardes\n- German Vega, Roland Groz, Catherine Oriat, Adenilso Simao, Neil Walkinshaw, Michael Foster\n\n## 11h25 (25mn)\n- Spécialisation de l'anti-unification pour la composition des modèles d'interactions via des connexions de ports\n- Joel Nguetoum, Boutheina Bannour, Pascale Le Gall, Erwan Mahe\n\n## 11h50 (20mn)\n- Timed Finite State Machines with output delays : state identification and applications in distributed networking systems\n- Evgenii Vinarskii\n\n## 12h10 (20mn)\n- Vérification à l'exécution des flux de communication dans un système de production cyber-physique\n- Darine\nRammal, Christophe Gaston, Arnault Lapitre, Abdelaziz Ouazzani Chahidi, Hasnaa\nAit Malek, Maxime Morin, Nicolas Navarro\n\n"
+  },
+  {
+    "id": "bedf1c63-3ae2-435b-a471-31be6a1fe330",
+    "title": "GT Tone",
+    "start": "2026-06-02T09:00:00.000Z",
+    "end": "2026-06-02T10:30:00.000Z",
+    "room": "Salle 1 (Polytech A209)",
+    "roomShort": "Salle 1 (Polytech A209)",
+    "color": "#16a34a",
+    "description": "- Marc Pouzet (ENS Paris) : \"Forward : une nouvelle construction d’itération pour un\n langage réactif synchrone\".\n\n- Timothy Bourke (INRIA / ENS Paris) : \"Ordonnancement et compilation de programmes synchrones\n avec horloges 1/n par résolution de contraintes.\""
+  },
+  {
+    "id": "3ee279c1-4314-4dd9-86b6-310c0cc92171",
+    "title": "GT DevX",
+    "start": "2026-06-02T09:00:00.000Z",
+    "end": "2026-06-02T10:30:00.000Z",
+    "room": "Salle 2 (Polytech A211)",
+    "roomShort": "Salle 2 (Polytech A211)",
+    "color": "#9333ea",
+    "location": "Salle 2",
+    "description": "## GT-DevX\n- Deuxième session du GT-DevX (la première depuis le passage au GDR SciLog).\n\nNotre\n objectif reste le même que pour les événements précédents : initier une\n communauté autour de discussions, d'échanges d'expériences et de \nfutures collaborations potentielles sur la thématique de l'expérience \ndes développeuses et développeurs.\n\n\nCette\n année, dans l'air du temps, nous souhaitons aborder le DevX sous \nl'angle de l'intelligence artificielle et des outils agentiques.\n\nCes\n outils, souvent mis en avant pour leur capacité à répondre aux enjeux \nde productivité, sont désormais partie intégrante du développement \nlogiciel, .\n\nLa \nquestion se pose alors de savoir quel est leur impact sur le quotidien \ndes différents profils de développeuses et développeurs, et comment \nentrevoir ce que pourrait être le DevX de demain ?\n\n\nCes discussions seront d'autant plus riches qu'il y aura une grande diversité d'expériences lors de cette session.\n\n\nAlors, n'hésitez pas, venez nombreux !\n\n\n- Valentin Bourcier, Benoît Combemale, Steven Costiou"
+  },
+  {
+    "id": "cf765811-dcfe-457f-8d70-d9a3c04db489",
+    "title": "Déjeuner & Posters",
+    "start": "2026-06-02T10:30:00.000Z",
+    "end": "2026-06-02T12:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "d3a1f7c3-53bf-4833-a204-c27757e34160",
+    "title": "AFADL - Génie logiciel et études de cas industrielles",
+    "start": "2026-06-02T12:00:00.000Z",
+    "end": "2026-06-02T13:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "chair **Fabien Dagnat**\n\n## 14:00 (25 mn)\n- Distinguishing Insights from Hallucinations in LLM-Generated Software Engineering Artifacts\n-  Fabrice Bouquet, Antoine Chevrot, Frédéric Dadeau, Eléa Jacquin, Dorine Tabary\n\n\n## 14h25 (15 mn)\n- Scopeannon: Towards a Formal Variable Scoping Analysis of Ansible\n-  Olivia Proust\n\n## 14h40 (25 mn)\n- Vérification formelle d'un parseur de signature PKCS#1 à l'aide de Frama-C\n-  Martin Hána, Nikolai Kosmatov, Virgile Prevosto, Julien Signoles\n\n## 15h05 (20 mn)\n- Orange - Télécom SudParis collaboration : formal verification of security properties in moving target defense strategies\n-  Philipp Schlehuber-Caissier, Natalia Kushik, Benjamin Bisping, Chrystel Gaber, Jean-Philippe Wary, Nicolas Matei\n\n\n\n\n\n\n\n"
+  },
+  {
+    "id": "d4797acd-5cc0-4cdd-a395-6502edba0454",
+    "title": "GT IA",
+    "start": "2026-06-02T12:00:00.000Z",
+    "end": "2026-06-02T13:30:00.000Z",
+    "room": "Salle Agora 1 (Bat. Esprit)",
+    "roomShort": "Agora 1 (Bat. Esprit)",
+    "color": "#0891b2",
+    "location": "Agora 1",
+    "description": "## Présentations de travaux de recherche et de projets\n\n\n        \n- Djamel et Romain pour\n          le GT IA, \n\n"
+  },
+  {
+    "id": "9da05a90-24fa-41f2-893a-adabd813acfc",
+    "title": "GT PARTS",
+    "start": "2026-06-02T12:00:00.000Z",
+    "end": "2026-06-02T13:30:00.000Z",
+    "room": "Salle Atrium (Bat. Esprit)",
+    "roomShort": "Atrium (Bat. Esprit)",
+    "color": "#4f46e5",
+    "location": "Esprit - Atrium (amphi)",
+    "description": "Description a venir"
+  },
+  {
+    "id": "301f6cef-bbfc-45f2-9058-2b5621df5f8d",
+    "title": "Pause",
+    "start": "2026-06-02T13:30:00.000Z",
+    "end": "2026-06-02T14:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "e5aa5214-8601-494a-866c-ebeb2feb9c3b",
+    "title": "Prix de thèse",
+    "start": "2026-06-02T14:00:00.000Z",
+    "end": "2026-06-02T15:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "## Remise du prix de thèse du GDR SciLog.\n- Présentation rapide de sa thèse par la lauréate ou le lauréat."
+  },
+  {
+    "id": "ea28fceb-43c8-4b32-99ed-bdb2311ddd53",
+    "title": "Atelier préparation concours (CNRS, Inria, Mcf)",
+    "start": "2026-06-02T15:30:00.000Z",
+    "end": "2026-06-02T17:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "- Préparation aux concours \n- Retours d'expériences"
+  },
+  {
+    "id": "50fcf544-ddda-4055-ae7b-fc9d279ffda1",
+    "title": "Escape Game",
+    "start": "2026-06-02T17:30:00.000Z",
+    "end": "2026-06-02T20:30:00.000Z",
+    "room": "Événements",
+    "roomShort": "Événements",
+    "color": "#475569",
+    "description": "## Escape Game outdoor à Lille\n\n** Prévoir 2 heures**\n\n## Point de rendez-vous\n- Rendez-vous à partir de 19h30 \n    - devant la gare Lille-Flandre, au pied de la statue jaune\n- Constituez vous-même vos équipe de 4 à 5 équipiers\n- Le repas n'est pas prévu :-)\n    - Vous pouvez manger avant ou après  \n\n\n## Description\n\nPartez pour une promenade épique dans les rues de la ville afin de\n      vous initier à l’Escape Game outdoor lillois tout en découvrant\n      son patrimoine secret et insolite !\n\n      \n\n      Smartphone en main, partez en équipe pour la meilleure aventure\n      extérieure qui soit. La machiavélique organisation Eclipse prépare\n      un mauvais coup et le sort de John Doe est entre vos mains.\n\n      \n\n      À vous de mettre fin à leurs agissements en menant l’enquête dans\n      la capitale des Flandres. Suivez les indications de votre agent de\n      liaison et, étape après étape, résolvez les différentes énigmes en\n      faisant preuve d’observation et en utilisant votre logique.\n\n      \n\n      Chaque succès vous permet d’en apprendre davantage sur la ville de\n      Lille et vous amène petit à petit vers la victoire finale !\n\n    \n\n**Date:** 02/06/2026 19h30\n\n      **Point de départ :** Gare Lille Flandres\n\n      **Étendue du parcours :**\n\n      - Quai du Wault\n\n      - Citadelle\n\n      - Vieux-Lille\n\n      - Grand’Place"
+  },
+  {
+    "id": "44654fa3-f3e6-49a3-aa30-51ff0b830fc9",
+    "title": "Keynote 2 - Thomas Degueule",
+    "start": "2026-06-03T07:00:00.000Z",
+    "end": "2026-06-03T08:20:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "## Abstract\n\nModern software \ndevelopment heavily relies on third-party libraries distributed through \nlarge software ecosystems. Like any software artifact, libraries \ncontinuously evolve to introduce new features, fix bugs, and address \nsecurity vulnerabilities. Keeping dependencies up to date is therefore \nessential to benefit from these improvements and avoid technical debt \nand security risks. As libraries evolve, they may break the contract \npreviously established by introducing syntactic or semantic changes. \nSuch breaking changes often discourage clients from upgrading their \ndependencies, increasing maintenance costs, raising security concerns, \nand making future upgrades even harder.\n\nIn this talk, we will \ndiscuss the central role of software ecosystems and libraries in modern \nsoftware engineering, and the challenges raised by their inevitable \nevolution. We will explore API design and usage practices, examine how \nmaintainers evolve their libraries and how frequently breaking changes \noccur, and present techniques to automatically detect and remediate \nsyntactic and semantic compatibility issues. We will also show how \nresearch tools can concretely support practitioners in evolving their \nlibraries and managing their dependencies. Finally, we will highlight \nresearch directions for building more sustainable and resilient software\n ecosystems.\n\n# Liens\n\n[présentation SciLog 2026](https://scilog2026.fr/speakers)"
+  },
+  {
+    "id": "782cb525-a716-4f85-beb3-c635effc0443",
+    "title": "Poster Teasers",
+    "start": "2026-06-03T08:20:00.000Z",
+    "end": "2026-06-03T08:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon"
+  },
+  {
+    "id": "6912667f-5812-44f7-9d52-22a5324e9c6f",
+    "title": "Pause",
+    "start": "2026-06-03T08:30:00.000Z",
+    "end": "2026-06-03T09:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "eb24723b-fbbc-4e12-9628-76d4d481e5c2",
+    "title": "AFADL-LVP-IPP",
+    "start": "2026-06-03T09:00:00.000Z",
+    "end": "2026-06-03T10:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "Chair : **Julie Cailler, Julien Signoles, Virgile Prevosto, Olivier Hermant**\n\n## 11h00 (20mn)\n- Assistants de preuve basés sur la théorie des ensembles interopérables et sûrs – le projet ICSPA\n- Frédéric Blanqui, Jean-Paul Bodeveix, Guillaume Burel, Alessio Coltellacci, David Deharbe, David Delahaye, Gilles Dowek , Catherine Dubois, Ciaran Dunne, Mamoun Filali, Anne Grieu, Olivier Hermant, Stephan Merz\n\n## 11h20 (20mn)\n- JSON Model : conception et implémentation\n-  Fabien Coelho,  Claire Yannou-Medrala\n\n## 11h40 (20mn)\n- L'arithmétique de séparation\n- Jean-Christophe Filliâtre, Andrei Paskevich\n\n## 12h00 (20mn)\n- Two-Way Collaboration Between Flow and Proof in SPARK\n- Claire Dross, Joffrey Huguet, Johannes Kanig\n\n"
+  },
+  {
+    "id": "7d3b65b7-b20a-4e07-a3d4-b5732f6098b2",
+    "title": "GT IIDM",
+    "start": "2026-06-03T09:00:00.000Z",
+    "end": "2026-06-03T10:30:00.000Z",
+    "room": "Salle Agora 1 (Bat. Esprit)",
+    "roomShort": "Agora 1 (Bat. Esprit)",
+    "color": "#0891b2",
+    "location": "Esprit Agora 1",
+    "description": "## 11h00 - 11h25\n\n\n- **Nicolas Anquetil** :\n\"Meta-models for reverse engineering in practice\"\n\n\n## 11h25 - 11h50\n\n\n- **Meriem Smati** :\n\"DTGen : une approche de génération pour l’ingénierie et l’orchestration\nde jumeaux numériques dans les systèmes de systèmes\"\n\n\n## 11h50 - 12h15\n\n\n- **Hugo Richard**:  \"Weaving executable models and code for\nsoftware development\"\n\n\n## 12h15 - 12h30 \n\n\n- \"Discussion\ngénérale sur le GT IIDM\"\n\n\n"
+  },
+  {
+    "id": "d3eb95ab-ee50-4762-b482-169ed60a8cdb",
+    "title": "SEAN",
+    "start": "2026-06-03T09:00:00.000Z",
+    "end": "2026-06-03T10:30:00.000Z",
+    "room": "Salle Agora 2 (Bat. Esprit)",
+    "roomShort": "Agora 2 (Bat. Esprit)",
+    "color": "#be185d",
+    "location": "Esprit Agora 2",
+    "description": "Privat event"
+  },
+  {
+    "id": "8ea68bc8-3f10-4bc6-8c97-46571e5270a8",
+    "title": "GT EcoResp",
+    "start": "2026-06-03T09:00:00.000Z",
+    "end": "2026-06-03T10:30:00.000Z",
+    "room": "Salle Atrium (Bat. Esprit)",
+    "roomShort": "Atrium (Bat. Esprit)",
+    "color": "#4f46e5",
+    "location": "Esprit Atrium",
+    "description": "Description a venir"
+  },
+  {
+    "id": "f9748b7d-f74b-437b-84fa-16407d5dd881",
+    "title": "Déjeuner & Posters",
+    "start": "2026-06-03T10:30:00.000Z",
+    "end": "2026-06-03T12:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "480b33ee-ed0f-4dbd-b737-3ba22f8bd2e2",
+    "title": "Invitation IFM",
+    "start": "2026-06-03T12:00:00.000Z",
+    "end": "2026-06-03T13:00:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "## 14h00-14h20 \n- Pierre Fraigniaud\n\n## 14h20-14h40 \n- Verifying Timed Properties of Programs\n- par Dylan Marinho\n\nIn this presentation, I will first introduce the theoretical\n      tools used to analyze timing leaks in programs. The notion of\n      opacity was introduced in 2009 by Franck Cassez to assess whether\n      a system can preserve a secret against an attacker’s timed\n      observations. Our work focuses on an extension of this approach in\n      which the attacker’s observation is limited solely to the system’s\n      execution time.\n\n      \n\n      However, analyzing timed properties of programs is challenging, as\n      it requires taking into account both the software behavior and the\n      underlying hardware architecture. We will show how these two\n      aspects can be modeled using timed Petri nets and, as a proof of\n      concept, how security properties can be verified within this\n      framework.\n## 14h40-15h00 \n- Sylvain Salvati"
+  },
+  {
+    "id": "572abe65-815a-4df5-859e-0f7b129b2b65",
+    "title": "SEAN",
+    "start": "2026-06-03T12:00:00.000Z",
+    "end": "2026-06-03T14:00:00.000Z",
+    "room": "Salle Agora 2 (Bat. Esprit)",
+    "roomShort": "Agora 2 (Bat. Esprit)",
+    "color": "#be185d",
+    "location": "Esprit Agora 2",
+    "description": "Privat event"
+  },
+  {
+    "id": "7d06324d-2f2e-4c13-80d2-52998249cadc",
+    "title": "Nouvelles du CNRS",
+    "start": "2026-06-03T13:00:00.000Z",
+    "end": "2026-06-03T14:00:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "# Intervenant\nAymeric Histace\n\n- Directeur adjoint\nscientifique Interdisciplinarité et interfaces, suivi des GDR, référent CID\n\n# Liens\n[Aymeric Histace](https://www.ins2i.cnrs.fr/fr/personne/aymeric-histace)"
+  },
+  {
+    "id": "d273fc99-309c-4ffe-8cf4-dec8a9d1be5b",
+    "title": "Pause",
+    "start": "2026-06-03T14:00:00.000Z",
+    "end": "2026-06-03T14:30:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "84558dcf-08a7-49e7-aa75-e072cbfcd50e",
+    "title": "Présentation du réseau DevLOG",
+    "start": "2026-06-03T14:30:00.000Z",
+    "end": "2026-06-03T14:50:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "Présentation du réseau DevLOG par Stefan Gaget.\n\n## DevLOG\nRéseau des acteurs du Développement LOGiciel au sein de l'Enseignement Supérieur et de la Recherche.\nSa mission essentielle est de favoriser les échanges : soutien aux \nréseaux régionaux dans leurs actions, offre complémentaire d’actions et \nde formations, lien entre la communauté et les tutelles afin de remonter\n les réalités du terrain.\n\n[plus ... ](https://www.devlog.cnrs.fr/) (lien externe)"
+  },
+  {
+    "id": "7686f004-c396-4b7a-bca9-c8ea2b58e0e4",
+    "title": "SEAN",
+    "start": "2026-06-03T14:30:00.000Z",
+    "end": "2026-06-03T16:00:00.000Z",
+    "room": "Salle Agora 2 (Bat. Esprit)",
+    "roomShort": "Agora 2 (Bat. Esprit)",
+    "color": "#be185d",
+    "location": "Esprit Agora 2",
+    "description": "Privat event"
+  },
+  {
+    "id": "91bbd169-ad81-4f5d-8999-81027536b9c4",
+    "title": "Assemblée Génerale",
+    "start": "2026-06-03T14:50:00.000Z",
+    "end": "2026-06-03T16:20:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "Description a venir"
+  },
+  {
+    "id": "9c9dd164-9939-4310-a76c-aa1f165a2840",
+    "title": "Gala - Péniche Aristote",
+    "start": "2026-06-03T17:30:00.000Z",
+    "end": "2026-06-03T21:30:00.000Z",
+    "room": "Événements",
+    "roomShort": "Événements",
+    "color": "#475569",
+    "location": "Péniche Aristote",
+    "description": "#  COCKTAIL DINATOIRE\n## Péniche Aristote\n\nDe 19h30 à 00h30\n\n**Avenue Cuvier,\nFaçade de l'esplanade, Lille**\n[Google Map](https://maps.app.goo.gl/do1fBz453yB3Qju7A)\n\n\n\nLa Péniche Aristote\nvous invite à découvrir un cocktail dînatoire unique. Notre spécialité ? Le\nfour à bois, qui sublime des plats comme notre bavette marinée (Les régimes\nparticuliers se verront proposer d'autres choix). \n\n\n \n\n\nGrâce à notre\nsystème de points*, chaque convive peut choisir ses boissons préférées. \n\n\n## Système de points:\nVous avez 4 points\n\n- 1 verre 33 cl de bière = 1 point \n- 1 cocktail sans alcool = 1 point \n- 1 soft = 1 point \n- 1 coupe de Prosecco = 1 point \n- 1 verre de vin = 1 point \n- 1 cocktail = 2 points \n- 1 coupe de champagne = 2 points\n\n\n"
+  },
+  {
+    "id": "2c575d30-a061-424b-83b3-2436c867897d",
+    "title": "Keynote 3 - Elisa Gonzalez Boix",
+    "start": "2026-06-04T07:00:00.000Z",
+    "end": "2026-06-04T08:20:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "# Programming distributed systems with replicated state\n\n## Abstract\n\nDistributed systems replicate state across machines to enable high \navailability, fault tolerance, low latency, and scalability. Yet we \ncannot have the cake and eat it: the CAP theorem demonstrates\na fundamental trade-off between consistency and availability when network partitions occur. As a result, many systems adopt weak consistency models, relaxing the consistency guarantees to provide high availability and\n low latency. However, concurrent updates may lead to conflicts that must be resolved to ensure state convergence.\nReplicated Data Types (RDTs) have \nemerged as a principled answer to this challenge, offering convergence \nguarantees out of the box.\n\nIn this talk, we take a closer look at \nwhat it means for developers to build and utilise RDTs in their \napplications. Building highly available distributed applications with \nRDTs remains challenging: developers face recurring\n obstacles, including a lack of appropriate abstractions for replica \ndiscovery and update propagation, composing RDTs, and security. We will \ndiscuss recent results aimed at improving the adoption of RDTs, covering\n three fronts: 1) principled approaches to efficient\n RDT implementation, 2) abstractions for application-specific RDTs, and \n3) verification of RDTs in a (semi-)automatic way to give developers \nconfidence in their designs. We will close with an outlook on promising \nresearch directions.\n\n# Liens\n[présentation SciLog 2026](https://scilog2026.fr/speakers)\n\n\n\n"
+  },
+  {
+    "id": "da728e07-63ae-4d27-82e0-4f55010e39c3",
+    "title": "Prix du meilleur Poster",
+    "start": "2026-06-04T08:20:00.000Z",
+    "end": "2026-06-04T08:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon"
+  },
+  {
+    "id": "64ebea86-d375-4eb3-9842-0811245a8ff2",
+    "title": "Pause",
+    "start": "2026-06-04T08:30:00.000Z",
+    "end": "2026-06-04T09:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "58e75128-ddba-4960-a95d-0c18ea50b48d",
+    "title": "Défi GL4Sec et les GT MTV2 et GL_Sec",
+    "start": "2026-06-04T09:00:00.000Z",
+    "end": "2026-06-04T10:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "# Session commune Défi GL4Sec, GT MTV2 et GT GL_Sec\n\n## 11h-11h05 \n- Introduction du\n\nDéfi GL4Sec et des GT MTV2 et GL_Sec, \n- **Nikolai Kosmatov, Michaël Marcozzi et les responsables des GTs**\n\n## 11h05-11h35 \n- \"Did You Forkget It? Detecting One-Day Vulnerabilities in Open-source\nForks With Global History Analysis\"\n-  Romain Lefeuvre Charly Reux, Stefano Zachirolli, **Olivier Barais**, Benoit Combemale \n\n\n## 11h35-11h55 \n- \"SeaCoral : Une plateforme de génération automatique de tests pour C\"\n- Nicolas Berthier, Steven De Oliveira, Nikolai Kosmatov,  **Delphine Longuet**. \n\n## 11h55-12h15 \n- \"Not In My Git Tree: Catching Backdoors at Commit and Release Time\"\n- **Dimitri Kokkonis**, Michaël Marcozzi, Stefano Zachirolli.\n\n## 12h15-12h30 \n- Discussion entre les participants\n\n\n"
+  },
+  {
+    "id": "55592707-1f32-4c75-bb89-6c5be3e37943",
+    "title": "Fading-ICT",
+    "start": "2026-06-04T09:00:00.000Z",
+    "end": "2026-06-04T10:30:00.000Z",
+    "room": "Salle 2 (Polytech A211)",
+    "roomShort": "Salle 2 (Polytech A211)",
+    "color": "#9333ea",
+    "location": "Salle 2",
+    "description": "Description a venir"
+  },
+  {
+    "id": "427e1c0f-ce3c-4769-b240-f7bd2fc5383e",
+    "title": "SEAN",
+    "start": "2026-06-04T09:00:00.000Z",
+    "end": "2026-06-04T10:30:00.000Z",
+    "room": "Salle Agora 2 (Bat. Esprit)",
+    "roomShort": "Agora 2 (Bat. Esprit)",
+    "color": "#be185d",
+    "location": "Esprit Agora 2",
+    "description": "Privat event"
+  },
+  {
+    "id": "f0e1efa6-47aa-4770-b077-17780cf7ea6f",
+    "title": "Déjeuner & Posters",
+    "start": "2026-06-04T10:30:00.000Z",
+    "end": "2026-06-04T12:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "e25b729f-c774-4130-ba6c-4a98bd9e7611",
+    "title": "Défi ADDYCT",
+    "start": "2026-06-04T12:00:00.000Z",
+    "end": "2026-06-04T13:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "Description a venir"
+  },
+  {
+    "id": "f6f3b5bc-c958-4d2f-9476-16662024cc4d",
+    "title": "SEAN",
+    "start": "2026-06-04T12:00:00.000Z",
+    "end": "2026-06-04T13:30:00.000Z",
+    "room": "Salle Agora 2 (Bat. Esprit)",
+    "roomShort": "Agora 2 (Bat. Esprit)",
+    "color": "#be185d",
+    "location": "Esprit Agora 2",
+    "description": "privat event"
+  },
+  {
+    "id": "17c8b488-0bd4-45b4-92d0-a23a31e7a83c",
+    "title": "Pause",
+    "start": "2026-06-04T13:30:00.000Z",
+    "end": "2026-06-04T14:00:00.000Z",
+    "room": "Convivialité",
+    "roomShort": "Convivialité",
+    "color": "#dc2626"
+  },
+  {
+    "id": "01fc9892-2e61-4093-90ec-f09f18487b44",
+    "title": "GTs EDT / SyLA",
+    "start": "2026-06-04T14:00:00.000Z",
+    "end": "2026-06-04T15:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon",
+    "description": "Description a venir"
+  },
+  {
+    "id": "9c666b76-c309-4175-9a1c-1ba54589cae5",
+    "title": "SEAN",
+    "start": "2026-06-04T14:00:00.000Z",
+    "end": "2026-06-04T15:30:00.000Z",
+    "room": "Salle Agora 2 (Bat. Esprit)",
+    "roomShort": "Agora 2 (Bat. Esprit)",
+    "color": "#be185d",
+    "location": "Esprit Agora 2",
+    "description": "privat event"
+  },
+  {
+    "id": "b762d85d-9b86-46a8-9aab-206bc36f8369",
+    "title": "Clôture",
+    "start": "2026-06-04T15:30:00.000Z",
+    "end": "2026-06-04T16:30:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon"
+  }
+]
