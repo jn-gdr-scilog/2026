@@ -449,17 +449,6 @@
     "description": "# Session commune Défi GL4Sec, GT MTV2 et GT GL_Sec\n\n## 11h-11h05 \n- Introduction du\n\nDéfi GL4Sec et des GT MTV2 et GL_Sec, \n- **Nikolai Kosmatov, Michaël Marcozzi et les responsables des GTs**\n\n## 11h05-11h35 \n- \"Did You Forkget It? Detecting One-Day Vulnerabilities in Open-source\nForks With Global History Analysis\"\n-  Romain Lefeuvre Charly Reux, Stefano Zachirolli, **Olivier Barais**, Benoit Combemale \n\n\n## 11h35-11h55 \n- \"SeaCoral : Une plateforme de génération automatique de tests pour C\"\n- Nicolas Berthier, Steven De Oliveira, Nikolai Kosmatov,  **Delphine Longuet**. \n\n## 11h55-12h15 \n- \"Not In My Git Tree: Catching Backdoors at Commit and Release Time\"\n- **Dimitri Kokkonis**, Michaël Marcozzi, Stefano Zachirolli.\n\n## 12h15-12h30 \n- Discussion entre les participants\n\n\n"
   },
   {
-    "id": "55592707-1f32-4c75-bb89-6c5be3e37943",
-    "title": "Fading-ICT",
-    "start": "2026-06-04T09:00:00.000Z",
-    "end": "2026-06-04T10:30:00.000Z",
-    "room": "Salle 2 (Polytech A211)",
-    "roomShort": "Salle 2 (Polytech A211)",
-    "color": "#9333ea",
-    "location": "Salle 2",
-    "description": "Description a venir"
-  },
-  {
     "id": "427e1c0f-ce3c-4769-b240-f7bd2fc5383e",
     "title": "SEAN",
     "start": "2026-06-04T09:00:00.000Z",
@@ -469,6 +458,17 @@
     "color": "#be185d",
     "location": "Esprit Agora 2",
     "description": "Privat event"
+  },
+  {
+    "id": "55592707-1f32-4c75-bb89-6c5be3e37943",
+    "title": "Fading-ICT",
+    "start": "2026-06-04T09:00:00.000Z",
+    "end": "2026-06-04T10:30:00.000Z",
+    "room": "Salle Atrium (Bat. Esprit)",
+    "roomShort": "Atrium (Bat. Esprit)",
+    "color": "#4f46e5",
+    "location": "Esprit - Atrium",
+    "description": "Description a venir"
   },
   {
     "id": "f0e1efa6-47aa-4770-b077-17780cf7ea6f",
@@ -481,7 +481,7 @@
   },
   {
     "id": "e25b729f-c774-4130-ba6c-4a98bd9e7611",
-    "title": "Défi ADDYCT",
+    "title": "Défi ADDYCT et GTs EDT / SyLA",
     "start": "2026-06-04T12:00:00.000Z",
     "end": "2026-06-04T13:30:00.000Z",
     "room": "Grand Amphi Migeon (Polytech)",
@@ -509,17 +509,6 @@
     "room": "Convivialité",
     "roomShort": "Convivialité",
     "color": "#dc2626"
-  },
-  {
-    "id": "01fc9892-2e61-4093-90ec-f09f18487b44",
-    "title": "GTs EDT / SyLA",
-    "start": "2026-06-04T14:00:00.000Z",
-    "end": "2026-06-04T15:30:00.000Z",
-    "room": "Grand Amphi Migeon (Polytech)",
-    "roomShort": "Amphi Migeon (Polytech)",
-    "color": "#2563eb",
-    "location": "Amphi Migeon",
-    "description": "Description a venir"
   },
   {
     "id": "9c666b76-c309-4175-9a1c-1ba54589cae5",
