@@ -511,6 +511,16 @@
     "color": "#dc2626"
   },
   {
+    "id": "b762d85d-9b86-46a8-9aab-206bc36f8369",
+    "title": "Clôture",
+    "start": "2026-06-04T14:00:00.000Z",
+    "end": "2026-06-04T15:00:00.000Z",
+    "room": "Grand Amphi Migeon (Polytech)",
+    "roomShort": "Amphi Migeon (Polytech)",
+    "color": "#2563eb",
+    "location": "Amphi Migeon"
+  },
+  {
     "id": "9c666b76-c309-4175-9a1c-1ba54589cae5",
     "title": "SEAN",
     "start": "2026-06-04T14:00:00.000Z",
@@ -520,15 +530,5 @@
     "color": "#be185d",
     "location": "Esprit Agora 2",
     "description": "privat event"
-  },
-  {
-    "id": "b762d85d-9b86-46a8-9aab-206bc36f8369",
-    "title": "Clôture",
-    "start": "2026-06-04T15:30:00.000Z",
-    "end": "2026-06-04T16:30:00.000Z",
-    "room": "Grand Amphi Migeon (Polytech)",
-    "roomShort": "Amphi Migeon (Polytech)",
-    "color": "#2563eb",
-    "location": "Amphi Migeon"
   }
 ]
