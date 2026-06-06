@@ -530,5 +530,14 @@
     "color": "#be185d",
     "location": "Esprit Agora 2",
     "description": "privat event"
+  },
+  {
+    "id": "b8286888-adfe-4590-bb22-849b8c2fd1c8",
+    "title": "Reunion Thomas",
+    "start": "2026-06-11T09:00:00.000Z",
+    "end": "2026-06-11T10:00:00.000Z",
+    "room": "Salle 1 (Polytech A209)",
+    "roomShort": "Salle 1 (Polytech A209)",
+    "color": "#16a34a"
   }
 ]
